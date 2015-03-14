@@ -56,7 +56,7 @@ proof, which we&amp;rsquo;ll call (Dist.) (in Cresswell&amp;rsquo;s paper it app
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;The satisfaction of [(Dist.)] is interesting because it is not a condition one
 would want to put on all urn models. This means that there would seem to
-be no formula which entails that $a&lt;/em&gt;{i} \in D(\langle a_{1}, \ldots, a_{n}\rangle)$ for $1 \leq i \leq n$.&amp;rdquo;_
+be no formula which entails that&lt;/em&gt; $a_{i} \in D(\langle a_{1}, \ldots, a_{n}\rangle)$ &lt;em&gt;for&lt;/em&gt; $1 \leq i \leq n$.&amp;rdquo;
 (Cresswell 1982, p.121)&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -69,7 +69,7 @@ $\mathcal{M^{d}}$-assignment s.t. $\mathcal{M}$ and $\mathcal{M^{d}}$ agree on w
 to show that the class of all irreflexive frames is not modally definable&amp;mdash;which is not entirely surprising, considering the
 extent to which (Dist.) looks like a combination of irreflexivity and antisymmetry on our &amp;lsquo;accessibility relation&amp;rsquo;. The construction
 is relatively simple. First let us establish some notation. Given a sequence $s$ and a sequence $s&amp;rsquo;$ let $s\ast s&amp;rsquo;$ be the
-concatenation of $s$ and $s&amp;rsquo;$, similarly given an object $a$ let $s\ast a$ be the result of concatenating $a$ to the end of $s$. Given a sequence of sequences $s = \langle s{1}, \ldots, s{n}\rangle$ say that $s{i}$ is the maximal element of $s$ iff $s{i}$ is the longest member of $s$. Finally, given a sequence $s$ let $s^{l}$ be the final element of $s$.&lt;/p&gt;
+concatenation of $s$ and $s&amp;rsquo;$, similarly given an object $a$ let $s\ast a$ be the result of concatenating $a$ to the end of $s$. Given a sequence of sequences $s = \langle s_{1}, \ldots, s_{n}\rangle$ say that $s_{i}$ is the maximal element of $s$ iff $s{i}$ is the longest member of $s$. Finally, given a sequence $s$ let $s^{l}$ be the final element of $s$.&lt;/p&gt;
 
 &lt;h2 id=&#34;the-construction:e11132a276315be53ce9adcebdd68daf&#34;&gt;The Construction&lt;/h2&gt;
 
@@ -79,14 +79,14 @@ concatenation of $s$ and $s&amp;rsquo;$, similarly given an object $a$ let $s\as
 &lt;li&gt;$A^{d}$ is the set of all sequences $\langle a_{1}, \ldots, a_{n}$ of elements from $A$ where $a_{n}\in D(\langle a_{1}, \ldots, a_{n-1}\rangle)$ (with $\langle a_{1}\rangle\in A^{d}$ iff $a_{1}\in D(\emptyset)$)&lt;/li&gt;
 &lt;li&gt;$D^{d}(\emptyset) = D(\emptyset)$&lt;/li&gt;
 &lt;li&gt;$s \in D^{d}(a_{1}, \ldots, a_{n})$ iff $s= a_{i}\ast b$ for some $b\in A$, where $a_{i}$ is the maximal element of $\langle a_{1}, \ldots, a_{n}\rangle$ and $b\in D(a_{i})$&lt;/li&gt;
-&lt;li&gt;$V^{d}(F) = {\langle s{1}, \ldots, s{n}\rangle | \langle s{1}^{l}, \ldots s{n}^{l}\rangle \in V(F)}$&lt;/li&gt;
+&lt;li&gt;$V^{d}(F) = {\langle s_{1}, \ldots, s_{n}\rangle | \langle s_{1}^{l}, \ldots s_{n}^{l}\rangle \in V(F)}$&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;It should be fairly obvious to see that $\mathcal{M}^{d}$ is an urn model (all we need to do is check that it satisfies the permutation condition).&lt;/p&gt;
 
 &lt;p&gt;Given urn models $\mathcal{M}$ and $\mathcal{M}^{d}$ let us say that a $\mathcal{M}^{d}$-assignment $s&amp;rsquo;$ is &lt;em&gt;safe relative to&lt;/em&gt; $x1, \ldots xn$
 for a $\mathcal{M}$-assignment $s$ if and only if there is a sequence $\langle s{1}, \ldots, s{n-1}\rangle$ of length $n-1$ constructed out of
-$s(x_{i})$ ($1\leq i \leq n$), and some ordering $\langle a_{x_1}, \ldots, a_{x_n}\rangle$ of $x_{1}, \ldots, x_{n}$,  $s&amp;rsquo;(a_{x_i})=\langle s{1}, \ldots, s{i-1}\rangle \ast\langles(a_{x_i})\rangle$. Approximately speaking assignments which are safe relative
+$s(x_{i})$ ($1\leq i \leq n$), and some ordering $\langle a_{x_1}, \ldots, a_{x_n}\rangle$ of $x_{1}, \ldots, x_{n}$,  $s&amp;rsquo;(a_{x_i})=\langle s{1}, \ldots, s{i-1}\rangle \ast\langle s(a_{x_i})\rangle$. Approximately speaking assignments which are safe relative
 to some variables are ones where the values assigned to those variables could have come from some sequence of legal selections of objects from
 our model. With this in hand we can then prove that, for all urn models $\mathcal{M}$, assignments $s$ and formulas $\varphi$ we have
 $$
@@ -119,6 +119,45 @@ for $x_1, \ldots x_{n}$. In the great tradition of leaving unknowns as exercises
 &lt;/ul&gt;
 
 &lt;p&gt;For the time being, you can also find me on twitter at &lt;a href=&#34;http://twitter.com/RohanFrench&#34;&gt;@RohanFrench&lt;/a&gt;, or email me at &lt;a href=&#34;mailto:rohan.french@gmail.com&#34;&gt;rohan.french@gmail.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://rohan-french.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/about/</guid>
+      <description>&lt;div class=image-left style=&#34;width:300px; border:1px solid #e0e3e5;&#34;&gt;
+&lt;img src=&#34;http://rohan-french.github.io/images/rohan-descartes.jpg&#34;&gt;
+&lt;span class=&#34;caption&#34;&gt;With Descartes at Versailles circa 2015.&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I&amp;rsquo;m &lt;span class=&#34;illuminate&#34;&gt;Dr. Rohan French&lt;/span&gt;.
+I did my PhD at Monash University in Australia under watchful eyes
+of Lloyd Humberstone, working on translations between modal logics.&lt;/p&gt;
+
+&lt;p&gt;From 2013-2014 I worked with Greg Restall and Jen Davoren on turning the University of
+Melbourne&amp;rsquo;s undergraduate logic course into a MOOC on Coursera, resulting in
+&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt; and
+&lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;Logic: Language and Information 2&lt;/a&gt;.
+One day I&amp;rsquo;ll probably put some of the Python programs I developed to put together
+the continuous assessment for the subject online here.&lt;/p&gt;
+
+&lt;p&gt;Currently I&amp;rsquo;m in the Netherlands where I&amp;rsquo;m working with Associate Professor Catarina Dutilh Novaes
+on the &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/&#34;&gt;Roots of Deduction&lt;/a&gt; project at the University of Groningen, where I&amp;rsquo;m working on connections between proof-theory and dialogue games.&lt;/p&gt;
+
+&lt;p&gt;My research is focused on issues in &lt;em&gt;philosophical logic&lt;/em&gt; and the &lt;em&gt;philosophy of logic&lt;/em&gt;. I&amp;rsquo;m
+particularly interested in issues concerning philosophical proof-theory (esp. proof-theory
+for weak quantificational logics, modal logics and varieties of inferentialism), modal logic
+(esp. first- and higher-order modal logics, and issues involving expressive power),
+translations between logics, and issues involving substructural logics. I&amp;rsquo;m generally interested in
+any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
+
+&lt;p&gt;When I&amp;rsquo;m not doing research I usually spend my time reading science-fiction and fantasy
+novels, listening to music and playing computer games.&lt;/p&gt;
+
+&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee (I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne).&lt;/p&gt;
 </description>
     </item>
     
@@ -200,45 +239,6 @@ descending order by year.&lt;/p&gt;
 &lt;li&gt;&lt;em&gt;Translational Embeddings in Modal Logic&lt;/em&gt;, PhD Thesis, Monash University.
 &lt;a href=&#34;http://rohan-french.github.io/writing/phd-thesis.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://rohan-french.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/about/</guid>
-      <description>&lt;div class=image-left style=&#34;width:300px; border:1px solid #e0e3e5;&#34;&gt;
-&lt;img src=&#34;http://rohan-french.github.io/images/rohan-descartes.jpg&#34;&gt;
-&lt;span class=&#34;caption&#34;&gt;With Descartes at Versailles circa 2015.&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I&amp;rsquo;m &lt;span class=&#34;illuminate&#34;&gt;Dr. Rohan French&lt;/span&gt;.
-I did my PhD at Monash University in Australia under watchful eyes
-of Lloyd Humberstone, working on translations between modal logics.&lt;/p&gt;
-
-&lt;p&gt;From 2013-2014 I worked with Greg Restall and Jen Davoren on turning the University of
-Melbourne&amp;rsquo;s undergraduate logic course into a MOOC on Coursera, resulting in
-&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt; and
-&lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;Logic: Language and Information 2&lt;/a&gt;.
-One day I&amp;rsquo;ll probably put some of the Python programs I developed to put together
-the continuous assessment for the subject online here.&lt;/p&gt;
-
-&lt;p&gt;Currently I&amp;rsquo;m in the Netherlands where I&amp;rsquo;m working with Associate Professor Catarina Dutilh Novaes
-on the &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/&#34;&gt;Roots of Deduction&lt;/a&gt; project at the University of Groningen, where I&amp;rsquo;m working on connections between proof-theory and dialogue games.&lt;/p&gt;
-
-&lt;p&gt;My research is focused on issues in &lt;em&gt;philosophical logic&lt;/em&gt; and the &lt;em&gt;philosophy of logic&lt;/em&gt;. I&amp;rsquo;m
-particularly interested in issues concerning philosophical proof-theory (esp. proof-theory
-for weak quantificational logics, modal logics and varieties of inferentialism), modal logic
-(esp. first- and higher-order modal logics, and issues involving expressive power),
-translations between logics, and issues involving substructural logics. I&amp;rsquo;m generally interested in
-any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
-
-&lt;p&gt;When I&amp;rsquo;m not doing research I usually spend my time reading science-fiction and fantasy
-novels, listening to music and playing computer games.&lt;/p&gt;
-
-&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee (I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne).&lt;/p&gt;
 </description>
     </item>
     

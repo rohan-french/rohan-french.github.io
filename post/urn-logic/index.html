@@ -94,7 +94,7 @@ proof, which we&rsquo;ll call (Dist.) (in Cresswell&rsquo;s paper it appears as 
 <blockquote>
 <p><em>&ldquo;The satisfaction of [(Dist.)] is interesting because it is not a condition one
 would want to put on all urn models. This means that there would seem to
-be no formula which entails that $a</em>{i} \in D(\langle a_{1}, \ldots, a_{n}\rangle)$ for $1 \leq i \leq n$.&rdquo;_
+be no formula which entails that</em> $a_{i} \in D(\langle a_{1}, \ldots, a_{n}\rangle)$ <em>for</em> $1 \leq i \leq n$.&rdquo;
 (Cresswell 1982, p.121)</p>
 </blockquote>
 
@@ -107,7 +107,7 @@ $\mathcal{M^{d}}$-assignment s.t. $\mathcal{M}$ and $\mathcal{M^{d}}$ agree on w
 to show that the class of all irreflexive frames is not modally definable&mdash;which is not entirely surprising, considering the
 extent to which (Dist.) looks like a combination of irreflexivity and antisymmetry on our &lsquo;accessibility relation&rsquo;. The construction
 is relatively simple. First let us establish some notation. Given a sequence $s$ and a sequence $s&rsquo;$ let $s\ast s&rsquo;$ be the
-concatenation of $s$ and $s&rsquo;$, similarly given an object $a$ let $s\ast a$ be the result of concatenating $a$ to the end of $s$. Given a sequence of sequences $s = \langle s{1}, \ldots, s{n}\rangle$ say that $s{i}$ is the maximal element of $s$ iff $s{i}$ is the longest member of $s$. Finally, given a sequence $s$ let $s^{l}$ be the final element of $s$.</p>
+concatenation of $s$ and $s&rsquo;$, similarly given an object $a$ let $s\ast a$ be the result of concatenating $a$ to the end of $s$. Given a sequence of sequences $s = \langle s_{1}, \ldots, s_{n}\rangle$ say that $s_{i}$ is the maximal element of $s$ iff $s{i}$ is the longest member of $s$. Finally, given a sequence $s$ let $s^{l}$ be the final element of $s$.</p>
 
 <h2 id="the-construction:e11132a276315be53ce9adcebdd68daf">The Construction</h2>
 
@@ -117,14 +117,14 @@ concatenation of $s$ and $s&rsquo;$, similarly given an object $a$ let $s\ast a$
 <li>$A^{d}$ is the set of all sequences $\langle a_{1}, \ldots, a_{n}$ of elements from $A$ where $a_{n}\in D(\langle a_{1}, \ldots, a_{n-1}\rangle)$ (with $\langle a_{1}\rangle\in A^{d}$ iff $a_{1}\in D(\emptyset)$)</li>
 <li>$D^{d}(\emptyset) = D(\emptyset)$</li>
 <li>$s \in D^{d}(a_{1}, \ldots, a_{n})$ iff $s= a_{i}\ast b$ for some $b\in A$, where $a_{i}$ is the maximal element of $\langle a_{1}, \ldots, a_{n}\rangle$ and $b\in D(a_{i})$</li>
-<li>$V^{d}(F) = {\langle s{1}, \ldots, s{n}\rangle | \langle s{1}^{l}, \ldots s{n}^{l}\rangle \in V(F)}$</li>
+<li>$V^{d}(F) = {\langle s_{1}, \ldots, s_{n}\rangle | \langle s_{1}^{l}, \ldots s_{n}^{l}\rangle \in V(F)}$</li>
 </ul>
 
 <p>It should be fairly obvious to see that $\mathcal{M}^{d}$ is an urn model (all we need to do is check that it satisfies the permutation condition).</p>
 
 <p>Given urn models $\mathcal{M}$ and $\mathcal{M}^{d}$ let us say that a $\mathcal{M}^{d}$-assignment $s&rsquo;$ is <em>safe relative to</em> $x1, \ldots xn$
 for a $\mathcal{M}$-assignment $s$ if and only if there is a sequence $\langle s{1}, \ldots, s{n-1}\rangle$ of length $n-1$ constructed out of
-$s(x_{i})$ ($1\leq i \leq n$), and some ordering $\langle a_{x_1}, \ldots, a_{x_n}\rangle$ of $x_{1}, \ldots, x_{n}$,  $s&rsquo;(a_{x_i})=\langle s{1}, \ldots, s{i-1}\rangle \ast\langles(a_{x_i})\rangle$. Approximately speaking assignments which are safe relative
+$s(x_{i})$ ($1\leq i \leq n$), and some ordering $\langle a_{x_1}, \ldots, a_{x_n}\rangle$ of $x_{1}, \ldots, x_{n}$,  $s&rsquo;(a_{x_i})=\langle s{1}, \ldots, s{i-1}\rangle \ast\langle s(a_{x_i})\rangle$. Approximately speaking assignments which are safe relative
 to some variables are ones where the values assigned to those variables could have come from some sequence of legal selections of objects from
 our model. With this in hand we can then prove that, for all urn models $\mathcal{M}$, assignments $s$ and formulas $\varphi$ we have
 $$
