@@ -82,37 +82,37 @@ permutation of $a{1}, \ldots, a{n}$.</p>
 proof, which we&rsquo;ll call (Dist.) (in Cresswell&rsquo;s paper it appears as <strong>4.3</strong>)</p>
 
 <blockquote>
-<p>If $b \in D(\langle a{1}, \ldots, a{n}\rangle)$ then $b$ is distinct from each $a{1}, \ldots, a{n}$.</p>
+<p>(Dist.) If $b \in D(\langle a{1}, \ldots, a{n}\rangle)$ then $b$ is distinct from each $a{1}, \ldots, a{n}$.</p>
 </blockquote>
 
 <p>Concerning this condition Cresswell has the following to say:</p>
 
 <blockquote>
-<p>&ldquo;The satisfaction of [(Dist.)] is interesting because it is not a condition one
+<p><em>&ldquo;The satisfaction of [(Dist.)] is interesting because it is not a condition one
 would want to put on all urn models. This means that there would seem to
-be no formula which entails that $a{i} \in D(\langle a{1}, \ldots, a{n}\rangle)$ for $1 \leq i \leq n$.&rdquo;
+be no formula which entails that $a{i} \in D(\langle a{1}, \ldots, a{n}\rangle)$ for $1 \leq i \leq n$.&rdquo;</em>
 (Cresswell 1982, p.121)</p>
 </blockquote>
 
 <p>Cresswell is indeed right that (Dist.) is not a condition we want to place on all our urn models. As it happens, though, placing this
 constraint on our models doesn&rsquo;t make a difference to the validities of the logic as, given a model $\mathcal{M}$ which doesn&rsquo;t
-satisfy (Dist.) we can always construct a model $\mathcal{M&rsquo;}$ so that for every $\mathcal{M}$-assignment, there is a
-$\mathcal{M&rsquo;}$-assignment s.t. $\mathcal{M}$ and $\mathcal{M&rsquo;}$ agree on which formulas are satisfied.</p>
+satisfy (Dist.) we can always construct a model $\mathcal{M^{d}}$ so that for every $\mathcal{M}$-assignment, there is a
+$\mathcal{M^{d}}$-assignment s.t. $\mathcal{M}$ and $\mathcal{M^{d}}$ agree on which formulas are satisfied.</p>
 
 <p>To demonstrate this we just need to use a construction which is reminiscient of the &lsquo;unravelling&rsquo; construction which is often used
 to show that the class of all irreflexive frames is not modally definable&mdash;which is not entirely surprising, considering the
 extent to which (Dist.) looks like a combination of irreflexivity and antisymmetry on our &lsquo;accessibility relation&rsquo;. The construction
 is relatively simple. First let us establish some notation. Given a sequence $s$ and a sequence $s&rsquo;$ let $s\ast s&rsquo;$ be the
-concatenation of $s$ and $s&rsquo;$, similarly given an object $a$ let $s\ast a$ be the result of concatenating $a$ to the end of $s$. Given a sequence of sequences $s = \langle s{1}, \ldots, s{n}\rangle$ say that $s{i}$ is the maximal element of $s$ iff $s{i}$ is the longest member of $s$. Finally, given a sequence $s$ let $s^{#}$ be the final element of $s$.</p>
+concatenation of $s$ and $s&rsquo;$, similarly given an object $a$ let $s\ast a$ be the result of concatenating $a$ to the end of $s$. Given a sequence of sequences $s = \langle s{1}, \ldots, s{n}\rangle$ say that $s{i}$ is the maximal element of $s$ iff $s{i}$ is the longest member of $s$. Finally, given a sequence $s$ let $s^{l}$ be the final element of $s$.</p>
 
-<p>** The Construction **
+<p>=The Construction=
 Suppose that $\mathcal{M} = \langle A, D, V\rangle$ is an urn model. Let $\mathcal{M}^{d} = \langle A^{d}, D^{d}, V^{d}\rangle$ be defined as follows:</p>
 
 <ul>
 <li>$A^{d}$ is the set of all sequences $\langle a{1}, \ldots, a{n}$ of elements from $A$ where $a{n}\in D(\langle a{1}, \ldots, a{n-1}\rangle)$ (with $\langle a{1}\rangle\in U$ iff $a{1}\in D(\emptyset)$)</li>
 <li>$D^{d}(\emptyset) = D(\emptyset)$</li>
 <li>$s \in D^{d}(a{1}, \ldots, a{n})$ iff $s= a{i}\ast b$ for some $b\in A$, where $a{i}$ is the maximal element of $\langle a{1}, \ldots, a{n}\rangle$ and $b\in D(a{i})$</li>
-<li>$V^{d}(F) = {\langle s{1}, \ldots, s{n}\rangle | \langle s{1}^{#}, \ldots s{n}^{#}\rangle \in V(F)}$</li>
+<li>$V^{d}(F) = {\langle s{1}, \ldots, s{n}\rangle | \langle s{1}^{l}, \ldots s{n}^{l}\rangle \in V(F)}$</li>
 </ul>
 
 <p>In the next post we&rsquo;ll look (briefly) at how to show that $\mathcal{M}$ and
