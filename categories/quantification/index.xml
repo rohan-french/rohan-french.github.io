@@ -17,23 +17,23 @@
       <guid>http://rohan-french.github.io/post/urn-logic/</guid>
       <description>&lt;p&gt;One of the great pleasures of doing logic is finding problems in one area which can be solved using the techniques and
 insights from another. What I want to briefly mention here is a neat example of this involving an interesting approach
-to quantificational logic due to Veikko Rantala called [&lt;a href=&#34;http://dx.doi.org/10.1007/BF00558760](&#39;Urn&#34;&gt;http://dx.doi.org/10.1007/BF00558760](&#39;Urn&lt;/a&gt; Logic&amp;rsquo;). The core idea behind urn logic&amp;rsquo;s semantics for the
+to quantificational logic due to Veikko Rantala called &lt;a href=&#34;http://dx.doi.org/10.1007/BF00558760&#34;&gt;&amp;lsquo;Urn Logic&amp;rsquo;&lt;/a&gt;. The core idea behind urn logic&amp;rsquo;s semantics for the
 quantifiers is that the objects which the quantifiers range over can vary over the course of the evaluation of a formula,
 depending on which objects are selected from the domain by earlier quantifiers. Veikko&amp;rsquo;s original semantics for this is
 in the style of Hintikka&amp;rsquo;s game theoretic semantics, and I&amp;rsquo;ve proposed a more standard version of the semantics in my
-[/writing/urn-logic.pdf](&amp;lsquo;A Sequent Calculus for Urn Logic&amp;rsquo;). What I&amp;rsquo;m interested in here, though, is a &amp;lsquo;classical&amp;rsquo; semantics for Urn Logic proposed
+&lt;a href=&#34;http://rohan-french.github.io/writing/urn-logic.pdf&#34;&gt;&amp;lsquo;A Sequent Calculus for Urn Logic&amp;rsquo;&lt;/a&gt;. What I&amp;rsquo;m interested in here, though, is a &amp;lsquo;classical&amp;rsquo; semantics for Urn Logic proposed
 by Max Cresswell, and how a question he asks about the expressivity of this semantics can be answered using a very familiar
 construction from modal logic.&lt;/p&gt;
 
 &lt;p&gt;Cresswell&amp;rsquo;s semantics, which he articulates in the excellent paper
-&lt;a href=&#34;Urn Models: A Classical Exposition&#34;&gt;http://dx.doi.org/10.1007/BF00370339&lt;/a&gt;, are as follows. A model is a triple
+&lt;a href=&#34;http://dx.doi.org/10.1007/BF00370339&#34;&gt;Urn Models: A Classical Exposition&lt;/a&gt;, are as follows. A model is a triple
 $\langle A, D, V\rangle$, with $A$ being a set of individuals (approximately, our initial domain), and $V$ an assignment
 of extensions to predicate letters (done in the usual manner). All the action in the semantics concerns $D$, which is
 a function from sequences of objects from $A$ to subsets of $A$. We also change the recursive clause for the quantifiers
 as follows
-[
+$$
 \langle A, D, V\rangle\models \forall x \varphi[s] \iff \langle A, D, V\rangle\models \varphi[s&amp;rsquo;]
-]
+$$
 where $s&amp;rsquo;$ is an $x$-variant of $s$ s.t. $s&amp;rsquo;(x)\in D(\langle s(x&lt;em&gt;{1}), \ldots, s(x&lt;/em&gt;{n})\rangle)$ where
 $x&lt;em&gt;{1}, \ldots, x&lt;/em&gt;{n}$ are the free-variables in $\forall x\varphi$. For convenience (so that we don&amp;rsquo;t have to make
 some kind of choice concerning the order of the free-variables in formulas) we also need to impose the constraint that
