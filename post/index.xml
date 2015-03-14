@@ -25,7 +25,8 @@ in the style of Hintikka&amp;rsquo;s game theoretic semantics, and I&amp;rsquo;v
 by Max Cresswell, and how a question he asks about the expressivity of this semantics can be answered using a very familiar
 construction from modal logic.&lt;/p&gt;
 
-&lt;p&gt;Cresswell&amp;rsquo;s semantics, which he articulates in the excellent paper
+&lt;p&gt;###Cresswell&amp;rsquo;s &amp;lsquo;Classical Exposition&amp;rsquo;
+Cresswell&amp;rsquo;s semantics, which he articulates in the excellent paper
 &lt;a href=&#34;http://dx.doi.org/10.1007/BF00370339&#34;&gt;Urn Models: A Classical Exposition&lt;/a&gt;, are as follows. A model is a triple
 $\langle A, D, V\rangle$, with $A$ being a set of individuals (approximately, our initial domain), and $V$ an assignment
 of extensions to predicate letters (done in the usual manner). All the action in the semantics concerns $D$, which is
@@ -67,7 +68,7 @@ extent to which (Dist.) looks like a combination of irreflexivity and antisymmet
 is relatively simple. First let us establish some notation. Given a sequence $s$ and a sequence $s&amp;rsquo;$ let $s\ast s&amp;rsquo;$ be the
 concatenation of $s$ and $s&amp;rsquo;$, similarly given an object $a$ let $s\ast a$ be the result of concatenating $a$ to the end of $s$. Given a sequence of sequences $s = \langle s{1}, \ldots, s{n}\rangle$ say that $s{i}$ is the maximal element of $s$ iff $s{i}$ is the longest member of $s$. Finally, given a sequence $s$ let $s^{l}$ be the final element of $s$.&lt;/p&gt;
 
-&lt;p&gt;=The Construction=
+&lt;p&gt;###The Construction
 Suppose that $\mathcal{M} = \langle A, D, V\rangle$ is an urn model. Let $\mathcal{M}^{d} = \langle A^{d}, D^{d}, V^{d}\rangle$ be defined as follows:&lt;/p&gt;
 
 &lt;ul&gt;
