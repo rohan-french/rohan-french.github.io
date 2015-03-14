@@ -25,8 +25,9 @@ in the style of Hintikka&amp;rsquo;s game theoretic semantics, and I&amp;rsquo;v
 by Max Cresswell, and how a question he asks about the expressivity of this semantics can be answered using a very familiar
 construction from modal logic.&lt;/p&gt;
 
-&lt;p&gt;###Cresswell&amp;rsquo;s &amp;lsquo;Classical Exposition&amp;rsquo;
-Cresswell&amp;rsquo;s semantics, which he articulates in the excellent paper
+&lt;p&gt;###Cresswell&amp;rsquo;s &amp;lsquo;Classical Exposition&amp;rsquo;&lt;/p&gt;
+
+&lt;p&gt;Cresswell&amp;rsquo;s semantics, which he articulates in the excellent paper
 &lt;a href=&#34;http://dx.doi.org/10.1007/BF00370339&#34;&gt;Urn Models: A Classical Exposition&lt;/a&gt;, are as follows. A model is a triple
 $\langle A, D, V\rangle$, with $A$ being a set of individuals (approximately, our initial domain), and $V$ an assignment
 of extensions to predicate letters (done in the usual manner). All the action in the semantics concerns $D$, which is
@@ -68,8 +69,9 @@ extent to which (Dist.) looks like a combination of irreflexivity and antisymmet
 is relatively simple. First let us establish some notation. Given a sequence $s$ and a sequence $s&amp;rsquo;$ let $s\ast s&amp;rsquo;$ be the
 concatenation of $s$ and $s&amp;rsquo;$, similarly given an object $a$ let $s\ast a$ be the result of concatenating $a$ to the end of $s$. Given a sequence of sequences $s = \langle s{1}, \ldots, s{n}\rangle$ say that $s{i}$ is the maximal element of $s$ iff $s{i}$ is the longest member of $s$. Finally, given a sequence $s$ let $s^{l}$ be the final element of $s$.&lt;/p&gt;
 
-&lt;p&gt;###The Construction
-Suppose that $\mathcal{M} = \langle A, D, V\rangle$ is an urn model. Let $\mathcal{M}^{d} = \langle A^{d}, D^{d}, V^{d}\rangle$ be defined as follows:&lt;/p&gt;
+&lt;p&gt;###The Construction&lt;/p&gt;
+
+&lt;p&gt;Suppose that $\mathcal{M} = \langle A, D, V\rangle$ is an urn model. Let $\mathcal{M}^{d} = \langle A^{d}, D^{d}, V^{d}\rangle$ be defined as follows:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;$A^{d}$ is the set of all sequences $\langle a{1}, \ldots, a{n}$ of elements from $A$ where $a{n}\in D(\langle a{1}, \ldots, a{n-1}\rangle)$ (with $\langle a{1}\rangle\in U$ iff $a{1}\in D(\emptyset)$)&lt;/li&gt;
@@ -102,6 +104,45 @@ $\mathcal{M}^{d}$ validate the same formulas.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;For the time being, you can also find me on twitter at &lt;a href=&#34;http://twitter.com/RohanFrench&#34;&gt;@RohanFrench&lt;/a&gt;, or email me at &lt;a href=&#34;mailto:rohan.french@gmail.com&#34;&gt;rohan.french@gmail.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://rohan-french.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/about/</guid>
+      <description>&lt;div class=image-left style=&#34;width:300px; border:1px solid #e0e3e5;&#34;&gt;
+&lt;img src=&#34;http://rohan-french.github.io/images/rohan-descartes.jpg&#34;&gt;
+&lt;span class=&#34;caption&#34;&gt;With Descartes at Versailles circa 2015.&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I&amp;rsquo;m &lt;span class=&#34;illuminate&#34;&gt;Dr. Rohan French&lt;/span&gt;.
+I did my PhD at Monash University in Australia under watchful eyes
+of Lloyd Humberstone, working on translations between modal logics.&lt;/p&gt;
+
+&lt;p&gt;From 2013-2014 I worked with Greg Restall and Jen Davoren on turning the University of
+Melbourne&amp;rsquo;s undergraduate logic course into a MOOC on Coursera, resulting in
+&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt; and
+&lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;Logic: Language and Information 2&lt;/a&gt;.
+One day I&amp;rsquo;ll probably put some of the Python programs I developed to put together
+the continuous assessment for the subject online here.&lt;/p&gt;
+
+&lt;p&gt;Currently I&amp;rsquo;m in the Netherlands where I&amp;rsquo;m working with Associate Professor Catarina Dutilh Novaes
+on the &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/&#34;&gt;Roots of Deduction&lt;/a&gt; project at the University of Groningen, where I&amp;rsquo;m working on connections between proof-theory and dialogue games.&lt;/p&gt;
+
+&lt;p&gt;My research is focused on issues in &lt;em&gt;philosophical logic&lt;/em&gt; and the &lt;em&gt;philosophy of logic&lt;/em&gt;. I&amp;rsquo;m
+particularly interested in issues concerning philosophical proof-theory (esp. proof-theory
+for weak quantificational logics, modal logics and varieties of inferentialism), modal logic
+(esp. first- and higher-order modal logics, and issues involving expressive power),
+translations between logics, and issues involving substructural logics. I&amp;rsquo;m generally interested in
+any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
+
+&lt;p&gt;When I&amp;rsquo;m not doing research I usually spend my time reading science-fiction and fantasy
+novels, listening to music and playing computer games.&lt;/p&gt;
+
+&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee (I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne).&lt;/p&gt;
 </description>
     </item>
     
@@ -183,45 +224,6 @@ descending order by year.&lt;/p&gt;
 &lt;li&gt;&lt;em&gt;Translational Embeddings in Modal Logic&lt;/em&gt;, PhD Thesis, Monash University.
 &lt;a href=&#34;http://rohan-french.github.io/writing/phd-thesis.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://rohan-french.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/about/</guid>
-      <description>&lt;div class=image-left style=&#34;width:300px; border:1px solid #e0e3e5;&#34;&gt;
-&lt;img src=&#34;http://rohan-french.github.io/images/rohan-descartes.jpg&#34;&gt;
-&lt;span class=&#34;caption&#34;&gt;With Descartes at Versailles circa 2015.&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I&amp;rsquo;m &lt;span class=&#34;illuminate&#34;&gt;Dr. Rohan French&lt;/span&gt;.
-I did my PhD at Monash University in Australia under watchful eyes
-of Lloyd Humberstone, working on translations between modal logics.&lt;/p&gt;
-
-&lt;p&gt;From 2013-2014 I worked with Greg Restall and Jen Davoren on turning the University of
-Melbourne&amp;rsquo;s undergraduate logic course into a MOOC on Coursera, resulting in
-&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt; and
-&lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;Logic: Language and Information 2&lt;/a&gt;.
-One day I&amp;rsquo;ll probably put some of the Python programs I developed to put together
-the continuous assessment for the subject online here.&lt;/p&gt;
-
-&lt;p&gt;Currently I&amp;rsquo;m in the Netherlands where I&amp;rsquo;m working with Associate Professor Catarina Dutilh Novaes
-on the &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/&#34;&gt;Roots of Deduction&lt;/a&gt; project at the University of Groningen, where I&amp;rsquo;m working on connections between proof-theory and dialogue games.&lt;/p&gt;
-
-&lt;p&gt;My research is focused on issues in &lt;em&gt;philosophical logic&lt;/em&gt; and the &lt;em&gt;philosophy of logic&lt;/em&gt;. I&amp;rsquo;m
-particularly interested in issues concerning philosophical proof-theory (esp. proof-theory
-for weak quantificational logics, modal logics and varieties of inferentialism), modal logic
-(esp. first- and higher-order modal logics, and issues involving expressive power),
-translations between logics, and issues involving substructural logics. I&amp;rsquo;m generally interested in
-any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
-
-&lt;p&gt;When I&amp;rsquo;m not doing research I usually spend my time reading science-fiction and fantasy
-novels, listening to music and playing computer games.&lt;/p&gt;
-
-&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee (I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne).&lt;/p&gt;
 </description>
     </item>
     
