@@ -17,34 +17,34 @@
       <guid>http://rohan-french.github.io/post/urn-logic/</guid>
       <description>&lt;p&gt;One of the great pleasures of doing logic is finding problems in one area which can be solved using the techniques and
 insights from another. What I want to briefly mention here is a neat example of this involving an interesting approach
-to quantificational logic due to Veikko Rantala called [&lt;a href=&#34;http://dx.doi.org/10.1007/BF00558760][&#39;Urn&#34;&gt;http://dx.doi.org/10.1007/BF00558760][&#39;Urn&lt;/a&gt; Logic&amp;rsquo;]. The core idea behind urn logic&amp;rsquo;s semantics for the
+to quantificational logic due to Veikko Rantala called [&lt;a href=&#34;http://dx.doi.org/10.1007/BF00558760](&#39;Urn&#34;&gt;http://dx.doi.org/10.1007/BF00558760](&#39;Urn&lt;/a&gt; Logic&amp;rsquo;). The core idea behind urn logic&amp;rsquo;s semantics for the
 quantifiers is that the objects which the quantifiers range over can vary over the course of the evaluation of a formula,
 depending on which objects are selected from the domain by earlier quantifiers. Veikko&amp;rsquo;s original semantics for this is
 in the style of Hintikka&amp;rsquo;s game theoretic semantics, and I&amp;rsquo;ve proposed a more standard version of the semantics in my
-[/writing/urn-logic.pdf][&amp;lsquo;A Sequent Calculus for Urn Logic&amp;rsquo;]. What I&amp;rsquo;m interested in here, though, is a &amp;lsquo;classical&amp;rsquo; semantics for Urn Logic proposed
+[/writing/urn-logic.pdf](&amp;lsquo;A Sequent Calculus for Urn Logic&amp;rsquo;). What I&amp;rsquo;m interested in here, though, is a &amp;lsquo;classical&amp;rsquo; semantics for Urn Logic proposed
 by Max Cresswell, and how a question he asks about the expressivity of this semantics can be answered using a very familiar
 construction from modal logic.&lt;/p&gt;
 
 &lt;p&gt;Cresswell&amp;rsquo;s semantics, which he articulates in the excellent paper
-[&lt;a href=&#34;http://dx.doi.org/10.1007/BF00370339][Urn&#34;&gt;http://dx.doi.org/10.1007/BF00370339][Urn&lt;/a&gt; Models: A Classical Exposition], are as follows. A model is a triple
-$$\langle A, D, V\rangle$$, with $$A$$ being a set of individuals (approximately, our initial domain), and $$V$$ an assignment
-of extensions to predicate letters (done in the usual manner). All the action in the semantics concerns $$D$$, which is
-a function from sequences of objects from $$A$$ to subsets of $$A$$. We also change the recursive clause for the quantifiers
+&lt;a href=&#34;Urn Models: A Classical Exposition&#34;&gt;http://dx.doi.org/10.1007/BF00370339&lt;/a&gt;, are as follows. A model is a triple
+$\langle A, D, V\rangle$, with $A$ being a set of individuals (approximately, our initial domain), and $V$ an assignment
+of extensions to predicate letters (done in the usual manner). All the action in the semantics concerns $D$, which is
+a function from sequences of objects from $A$ to subsets of $A$. We also change the recursive clause for the quantifiers
 as follows
 [
 \langle A, D, V\rangle\models \forall x \varphi[s] \iff \langle A, D, V\rangle\models \varphi[s&amp;rsquo;]
 ]
-where $$s&amp;rsquo;$$ is an $$x$$-variant of $$s$$ s.t. $$s&amp;rsquo;(x)\in D(\langle s(x&lt;em&gt;{1}), \ldots, s(x&lt;/em&gt;{n})\rangle)$$ where
-$$x&lt;em&gt;{1}, \ldots, x&lt;/em&gt;{n}$$ are the free-variables in $$\forall x\varphi$$. For convenience (so that we don&amp;rsquo;t have to make
+where $s&amp;rsquo;$ is an $x$-variant of $s$ s.t. $s&amp;rsquo;(x)\in D(\langle s(x&lt;em&gt;{1}), \ldots, s(x&lt;/em&gt;{n})\rangle)$ where
+$x&lt;em&gt;{1}, \ldots, x&lt;/em&gt;{n}$ are the free-variables in $\forall x\varphi$. For convenience (so that we don&amp;rsquo;t have to make
 some kind of choice concerning the order of the free-variables in formulas) we also need to impose the constraint that
-$$D(\langle a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}\rangle) = D(\langle b&lt;em&gt;{1}, \ldots, b&lt;/em&gt;{n}\rangle)$$ whenever $$b&lt;em&gt;{1}, \ldots, b&lt;/em&gt;{n}$$ is a
-permutation of $$a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}$$.&lt;/p&gt;
+$D(\langle a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}\rangle) = D(\langle b&lt;em&gt;{1}, \ldots, b&lt;/em&gt;{n}\rangle)$ whenever $b&lt;em&gt;{1}, \ldots, b&lt;/em&gt;{n}$ is a
+permutation of $a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}$.&lt;/p&gt;
 
 &lt;p&gt;What we&amp;rsquo;re going to focus on here is a constraint on Urn Models which Cresswell singles out in the course of his completeness
 proof, which we&amp;rsquo;ll call (Dist.) (in Cresswell&amp;rsquo;s paper it appears as &lt;strong&gt;4.3&lt;/strong&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;If $$b \in D(\langle a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}\rangle)$$ then $$b$$ is distinct from each $$a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}$$.&lt;/p&gt;
+&lt;p&gt;If $b \in D(\langle a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}\rangle)$ then $b$ is distinct from each $a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}$.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Concerning this condition Cresswell has the following to say:&lt;/p&gt;
@@ -52,33 +52,33 @@ proof, which we&amp;rsquo;ll call (Dist.) (in Cresswell&amp;rsquo;s paper it app
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;The satisfaction of [(Dist.)] is interesting because it is not a condition one
 would want to put on all urn models. This means that there would seem to
-be no formula which entails that $$a&lt;em&gt;{i} \in D(\langle a&lt;/em&gt;{1}, \ldots, a_{n}\rangle)$$ for $$1 \leq i \leq n$$.&amp;rdquo;
+be no formula which entails that $a&lt;em&gt;{i} \in D(\langle a&lt;/em&gt;{1}, \ldots, a_{n}\rangle)$ for $1 \leq i \leq n$.&amp;rdquo;
 (Cresswell 1982, p.121)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Cresswell is indeed right that (Dist.) is not a condition we want to place on all our urn models. As it happens, though, placing this
-constraint on our models doesn&amp;rsquo;t make a difference to the validities of the logic as, given a model $$\mathcal{M}$$ which doesn&amp;rsquo;t
-satisfy (Dist.) we can always construct a model $$\mathcal{M&amp;rsquo;}$$ so that for every $$\mathcal{M}$$-assignment, there is a
-$$\mathcal{M&amp;rsquo;}$$-assignment s.t. $$\mathcal{M}$$ and $$\mathcal{M&amp;rsquo;}$$ agree on which formulas are satisfied.&lt;/p&gt;
+constraint on our models doesn&amp;rsquo;t make a difference to the validities of the logic as, given a model $\mathcal{M}$ which doesn&amp;rsquo;t
+satisfy (Dist.) we can always construct a model $\mathcal{M&amp;rsquo;}$ so that for every $\mathcal{M}$-assignment, there is a
+$\mathcal{M&amp;rsquo;}$-assignment s.t. $\mathcal{M}$ and $\mathcal{M&amp;rsquo;}$ agree on which formulas are satisfied.&lt;/p&gt;
 
 &lt;p&gt;To demonstrate this we just need to use a construction which is reminiscient of the &amp;lsquo;unravelling&amp;rsquo; construction which is often used
 to show that the class of all irreflexive frames is not modally definable&amp;mdash;which is not entirely surprising, considering the
 extent to which (Dist.) looks like a combination of irreflexivity and antisymmetry on our &amp;lsquo;accessibility relation&amp;rsquo;. The construction
-is relatively simple. First let us establish some notation. Given a sequence $$s$$ and a sequence $$s&amp;rsquo;$$ let $$s\ast s&amp;rsquo;$$ be the
-concatenation of $$s$$ and $$s&amp;rsquo;$$, similarly given an object $$a$$ let $$s\ast a$$ be the result of concatenating $$a$$ to the end of $$s$$. Given a sequence of sequences $$s = \langle s&lt;em&gt;{1}, \ldots, s&lt;/em&gt;{n}\rangle$$ say that $$s&lt;em&gt;{i}$$ is the maximal element of $$s$$ iff $$s&lt;/em&gt;{i}$$ is the longest member of $$s$$. Finally, given a sequence $$s$$ let $$s^{#}$$ be the final element of $$s$$.&lt;/p&gt;
+is relatively simple. First let us establish some notation. Given a sequence $s$ and a sequence $s&amp;rsquo;$ let $s\ast s&amp;rsquo;$ be the
+concatenation of $s$ and $s&amp;rsquo;$, similarly given an object $a$ let $s\ast a$ be the result of concatenating $a$ to the end of $s$. Given a sequence of sequences $s = \langle s&lt;em&gt;{1}, \ldots, s&lt;/em&gt;{n}\rangle$ say that $s&lt;em&gt;{i}$ is the maximal element of $s$ iff $s&lt;/em&gt;{i}$ is the longest member of $s$. Finally, given a sequence $s$ let $s^{#}$ be the final element of $s$.&lt;/p&gt;
 
 &lt;p&gt;** The Construction **
-Suppose that $$\mathcal{M} = \langle A, D, V\rangle$$ is an urn model. Let $$\mathcal{M}^{d} = \langle A^{d}, D^{d}, V^{d}\rangle$$ be defined as follows:&lt;/p&gt;
+Suppose that $\mathcal{M} = \langle A, D, V\rangle$ is an urn model. Let $\mathcal{M}^{d} = \langle A^{d}, D^{d}, V^{d}\rangle$ be defined as follows:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;$$A^{d}$$ is the set of all sequences $$\langle a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}$$ of elements from $$A$$ where $$a&lt;em&gt;{n}\in D(\langle a&lt;/em&gt;{1}, \ldots, a&lt;em&gt;{n-1}\rangle)$$ (with $$\langle a&lt;/em&gt;{1}\rangle\in U$$ iff $$a_{1}\in D(\emptyset)$$)&lt;/li&gt;
-&lt;li&gt;$$D^{d}(\emptyset) = D(\emptyset)$$&lt;/li&gt;
-&lt;li&gt;$$s \in D^{d}(a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n})$$ iff $$s= a&lt;em&gt;{i}\ast b$$ for some $$b\in A$$, where $$a&lt;/em&gt;{i}$$ is the maximal element of $$\langle a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}\rangle$$ and $$b\in D(a_{i})$$&lt;/li&gt;
-&lt;li&gt;$$V^{d}(F) = {\langle s&lt;em&gt;{1}, \ldots, s&lt;/em&gt;{n}\rangle | \langle s&lt;em&gt;{1}^{#}, \ldots s&lt;/em&gt;{n}^{#}\rangle \in V(F)}$$&lt;/li&gt;
+&lt;li&gt;$A^{d}$ is the set of all sequences $\langle a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}$ of elements from $A$ where $a&lt;em&gt;{n}\in D(\langle a&lt;/em&gt;{1}, \ldots, a&lt;em&gt;{n-1}\rangle)$ (with $\langle a&lt;/em&gt;{1}\rangle\in U$ iff $a_{1}\in D(\emptyset)$)&lt;/li&gt;
+&lt;li&gt;$D^{d}(\emptyset) = D(\emptyset)$&lt;/li&gt;
+&lt;li&gt;$s \in D^{d}(a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n})$ iff $s= a&lt;em&gt;{i}\ast b$ for some $b\in A$, where $a&lt;/em&gt;{i}$ is the maximal element of $\langle a&lt;em&gt;{1}, \ldots, a&lt;/em&gt;{n}\rangle$ and $b\in D(a_{i})$&lt;/li&gt;
+&lt;li&gt;$V^{d}(F) = {\langle s&lt;em&gt;{1}, \ldots, s&lt;/em&gt;{n}\rangle | \langle s&lt;em&gt;{1}^{#}, \ldots s&lt;/em&gt;{n}^{#}\rangle \in V(F)}$&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In the next post we&amp;rsquo;ll look (briefly) at how to show that $$\mathcal{M}$$ and
-$$\mathcal{M}^{d}$$ validate the same formulas.&lt;/p&gt;
+&lt;p&gt;In the next post we&amp;rsquo;ll look (briefly) at how to show that $\mathcal{M}$ and
+$\mathcal{M}^{d}$ validate the same formulas.&lt;/p&gt;
 </description>
     </item>
     
