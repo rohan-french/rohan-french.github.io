@@ -34,13 +34,11 @@ h1 {
 
 h2	{
 	text-transform: lowercase;
-	font-weight: 400;
 	font-family: 'Alegreya Sans SC', sans-serif;
 	font-size: 1.8em;
 }
 
 h3	{
-	text-transform: lowercase;
 	font-size: 1.25em;
 	font-style: italic;
 	font-weight: 400;
