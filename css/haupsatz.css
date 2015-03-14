@@ -33,24 +33,31 @@ h1 {
 }
 
 h2	{
-	text-transform: lowercase;
+	font-weight: 400;
 	font-family: 'Alegreya Sans SC', sans-serif;
 	font-size: 1.8em;
 }
 
 h3	{
+	text-transform: lowercase;
 	font-size: 1.25em;
 	font-style: italic;
-	font-weight: 500;
+	font-weight: 400;
 }
 
-a:visited, a:link, a:active {
+a:link, a:active {
 	color: #3f3e4a;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #262531;
 	text-decoration: none;
 }
 
 a:hover {
 	text-decoration: underline;
+	color: #332e60;
 }
 
 

@@ -29,7 +29,7 @@ construction from modal logic.&lt;/p&gt;
 
 &lt;h2 id=&#34;cresswell-s-classical-exposition:e11132a276315be53ce9adcebdd68daf&#34;&gt;Cresswell&amp;rsquo;s &amp;lsquo;Classical Exposition&amp;rsquo;&lt;/h2&gt;
 
-&lt;p&gt;Cresswell&amp;rsquo;s semantics, which he articulates in the excellent paper
+&lt;p&gt;Cresswell&amp;rsquo;s semantics for Urn logic, which he articulates in his excellent paper
 &lt;a href=&#34;http://dx.doi.org/10.1007/BF00370339&#34;&gt;Urn Models: A Classical Exposition&lt;/a&gt;, are as follows. A model is a triple
 $\langle A, D, V\rangle$, with $A$ being a set of individuals (approximately, our initial domain), and $V$ an assignment
 of extensions to predicate letters (done in the usual manner). All the action in the semantics concerns $D$, which is
@@ -76,7 +76,7 @@ concatenation of $s$ and $s&amp;rsquo;$, similarly given an object $a$ let $s\as
 &lt;p&gt;Suppose that $\mathcal{M} = \langle A, D, V\rangle$ is an urn model. Let $\mathcal{M}^{d} = \langle A^{d}, D^{d}, V^{d}\rangle$ be defined as follows:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;$A^{d}$ is the set of all sequences $\langle a{1}, \ldots, a{n}$ of elements from $A$ where $a{n}\in D(\langle a{1}, \ldots, a{n-1}\rangle)$ (with $\langle a{1}\rangle\in U$ iff $a{1}\in D(\emptyset)$)&lt;/li&gt;
+&lt;li&gt;$A^{d}$ is the set of all sequences $\langle a{1}, \ldots, a{n}$ of elements from $A$ where $a{n}\in D(\langle a{1}, \ldots, a{n-1}\rangle)$ (with $\langle a{1}\rangle\in A^{d}$ iff $a{1}\in D(\emptyset)$)&lt;/li&gt;
 &lt;li&gt;$D^{d}(\emptyset) = D(\emptyset)$&lt;/li&gt;
 &lt;li&gt;$s \in D^{d}(a{1}, \ldots, a{n})$ iff $s= a{i}\ast b$ for some $b\in A$, where $a{i}$ is the maximal element of $\langle a{1}, \ldots, a{n}\rangle$ and $b\in D(a{i})$&lt;/li&gt;
 &lt;li&gt;$V^{d}(F) = {\langle s{1}, \ldots, s{n}\rangle | \langle s{1}^{l}, \ldots s{n}^{l}\rangle \in V(F)}$&lt;/li&gt;
