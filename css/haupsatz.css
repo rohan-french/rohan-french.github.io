@@ -70,9 +70,11 @@ a:hover {
 }
 
 div.navi-bar {
-	padding-left: 30px;
+/*	padding-left: 30px;
 	padding-right: 30px;
 	padding-bottom: 30px;
+*/	
+	height: 50px;
 	font-size: 140%;	
 }
 
@@ -89,16 +91,29 @@ div.navi-bar {
 	vertical-align: middle;
 }
 
+div.site-nav {
+	padding-left: 20px;
+	
+}
 
-#sitetitle {
+div.sitetitle {
 	float:left;
+	color: #eee6aa;
 	font-weight: 800;
 	font-family: 'Alegreya Sans SC', sans-serif;
 	display: inline;
 	margin: 0;
 	padding-top: 10px;
-	width: 150px;
+	padding-left: 20px;
+	width: 200px;
 	vertical-align: middle;
+}
+
+.verticalLine {
+	width: 3px; /* Line width */
+	background-color: #eee6aa; /* Line color */
+	height: 100%; /* Override in-line if you want specific height. */
+	float: left;
 }
 
 span.illuminate{
@@ -111,7 +126,7 @@ a.bar-link {
 
 a.navi-link{
 	display: block;
-	width: 80px;
+	width: 100px;
 	padding-top: 10px;
 	vertical-align: text-bottom;
 }
@@ -120,6 +135,7 @@ div.navi-bar ul{
    list-style-type: none;
    margin: 0;
    padding: 0;
+   padding-left:15px;
    overflow: hidden;
 }
    
