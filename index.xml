@@ -6,8 +6,48 @@
     <description>Recent content on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2015 20:07:56 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2015 16:45:53 +0200</lastBuildDate>
     <atom:link href="http://rohan-french.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Abstract for CLMPS</title>
+      <link>http://rohan-french.github.io/post/abstract/</link>
+      <pubDate>Wed, 08 Apr 2015 16:45:53 +0200</pubDate>
+      
+      <guid>http://rohan-french.github.io/post/abstract/</guid>
+      <description>
+
+&lt;p&gt;For those that (for some unknown reason) get their news about what&amp;rdquo;s happening
+from this little corner of the internet, the &lt;a href=&#34;http://clmps.helsinki.fi/&#34;&gt;15th Congress on Logic, Methodology
+and the Philosophy of Science&lt;/a&gt; is coming up in a few months, and today the
+schedule and abstracts were posted on the website. As is common with many
+things in this world we live in, lovely LaTeX was killed in the creation of
+plaintext. To rectify this, for those that are interested, a loveingly MathML
+rendered version of my abstract appears below the fold.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h2 id=&#34;a-hypersequent-calculus-for-contingent-existence-abstract:ac9d014eb02269a41f642e63c13d9dda&#34;&gt;A Hypersequent Calculus for Contingent Existence (Abstract)&lt;/h2&gt;
+
+&lt;p&gt;It is well known that the most straightforward way of adding rules for the quantifiers to any adequate sequent calculus for the modal logic
+&lt;strong&gt;S5&lt;/strong&gt; allows for the derivation of the Barcan Formula&amp;mdash;$\diamondsuit\exists x\varphi \to \exists x \diamondsuit\varphi$. This result is
+philosophically undesirably as, contra the Barcan Formula, common-sense metaphysics would have it that things can possibly exist without
+actually existing. In this paper we give an account of what is
+suspect about such derivations by making use of a modal object language with primitive scope indicators in which, in addition to their usual
+&amp;ldquo;object denoting&amp;rdquo; role we also employ terms in a &amp;ldquo;scope indicating&amp;rdquo; capacity. Using this modal object language we can diagnose the
+derivability of the Barcan formula in the standard language as arising out of the elision of a scope distinction between &amp;ldquo;possibly,
+$a$ is $F$&amp;rdquo; (written in this language as &amp;ldquo;$\diamondsuit\ a\ Fa$&amp;ldquo;) and &amp;ldquo;concerning $a$, possibly it is $F$&amp;rdquo; (written as &amp;ldquo;$a\ \diamondsuit
+Fa$&amp;ldquo;), where we are only able to infer &amp;ldquo;$\exists x \diamondsuit Fx$&amp;rdquo; from  the second of these formulas.&lt;/p&gt;
+
+&lt;p&gt;In order to manipulate this object language we make use of &amp;ldquo;importation&amp;rdquo; and &amp;ldquo;exportation&amp;rdquo; rules which govern the movement of scope indicators
+in addition to more standard left- and right-insertion rules. Furthermore, we also make use of a distinction between rules which
+introduce a context into which we can quantify, and those which (prior to the use of importation/exportation rules) we cannot&amp;mdash;the rules for
+negation and the modal operators being of this second kind. The resultant
+modal hypersequent calculi provided is sound and complete w.r.t. first-order Kripke models with non-constant domains.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Apparently I&amp;rsquo;m on in the 11:00-13:00 session on the 15th of August, in a great session on modal logic and mereology with Volker Halbach, Peter Fritz, and Hsing-chien Tsai&amp;mdash;so come along to see them, and see me talk about hypersequents and quantification for free :)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Urn Logic, Quantification and Modal Logic</title>
@@ -164,6 +204,16 @@ novels, listening to music and playing computer games.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Curriculum Vitae</title>
+      <link>http://rohan-french.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/cv/</guid>
+      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing</title>
       <link>http://rohan-french.github.io/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -241,16 +291,6 @@ descending order by year.&lt;/p&gt;
 &lt;li&gt;&lt;em&gt;Translational Embeddings in Modal Logic&lt;/em&gt;, PhD Thesis, Monash University.
 &lt;a href=&#34;http://rohan-french.github.io/writing/phd-thesis.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Curriculum Vitae</title>
-      <link>http://rohan-french.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/cv/</guid>
-      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
 </description>
     </item>
     
