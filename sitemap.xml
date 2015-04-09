@@ -23,15 +23,15 @@
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/about/</loc>
-  </url>
-  
-  <url>
     <loc>http://rohan-french.github.io/cv/</loc>
   </url>
   
   <url>
     <loc>http://rohan-french.github.io/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rohan-french.github.io/about/</loc>
   </url>
   
 </urlset>

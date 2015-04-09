@@ -165,45 +165,6 @@ for $x_1, \ldots x_{n}$. In the great tradition of leaving unknowns as exercises
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://rohan-french.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/about/</guid>
-      <description>&lt;div class=image-left style=&#34;width:300px; border:1px solid #e0e3e5;&#34;&gt;
-&lt;img src=&#34;http://rohan-french.github.io/images/rohan-descartes.jpg&#34;&gt;
-&lt;span class=&#34;caption&#34;&gt;With Descartes at Versailles circa 2015.&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I&amp;rsquo;m &lt;span class=&#34;illuminate&#34;&gt;Dr. Rohan French&lt;/span&gt;.
-I did my PhD at Monash University in Australia under watchful eyes
-of Lloyd Humberstone, working on translations between modal logics.&lt;/p&gt;
-
-&lt;p&gt;From 2013-2014 I worked with Greg Restall and Jen Davoren on turning the University of
-Melbourne&amp;rsquo;s undergraduate logic course into a MOOC on Coursera, resulting in
-&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt; and
-&lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;Logic: Language and Information 2&lt;/a&gt;.
-One day I&amp;rsquo;ll probably put some of the Python programs I developed to put together
-the continuous assessment for the subject online here.&lt;/p&gt;
-
-&lt;p&gt;Currently I&amp;rsquo;m in the Netherlands where I&amp;rsquo;m working with Associate Professor Catarina Dutilh Novaes
-on the &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/&#34;&gt;Roots of Deduction&lt;/a&gt; project at the University of Groningen, where I&amp;rsquo;m working on connections between proof-theory and dialogue games.&lt;/p&gt;
-
-&lt;p&gt;My research is focused on issues in &lt;em&gt;philosophical logic&lt;/em&gt; and the &lt;em&gt;philosophy of logic&lt;/em&gt;. I&amp;rsquo;m
-particularly interested in issues concerning philosophical proof-theory (esp. proof-theory
-for weak quantificational logics, modal logics and varieties of inferentialism), modal logic
-(esp. first- and higher-order modal logics, and issues involving expressive power),
-translations between logics, and issues involving substructural logics. I&amp;rsquo;m generally interested in
-any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
-
-&lt;p&gt;When I&amp;rsquo;m not doing research I usually spend my time reading science-fiction and fantasy
-novels, listening to music and playing computer games.&lt;/p&gt;
-
-&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee (I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Curriculum Vitae</title>
       <link>http://rohan-french.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -231,7 +192,8 @@ descending order by year.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&amp;ldquo;A Sequent Calculus for Urn Logic&amp;rdquo;, forthcoming in &lt;em&gt;The Journal of Logic, Language and Information&lt;/em&gt;
-&lt;a href=&#34;http://rohan-french.github.io/writing/urn-logic.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;a href=&#34;http://rohan-french.github.io/writing/urn-logic.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1007/s10849-015-9216-5&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&amp;ldquo;In the Mood for &lt;strong&gt;S4&lt;/strong&gt;: The Expressive Power of the Subjunctive Modal Language in Weak Background Logics&amp;rdquo;, forthcoming in &lt;em&gt;Studia Logica&lt;/em&gt;
 &lt;a href=&#34;http://rohan-french.github.io/writing/itmfs4.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
@@ -291,6 +253,45 @@ descending order by year.&lt;/p&gt;
 &lt;li&gt;&lt;em&gt;Translational Embeddings in Modal Logic&lt;/em&gt;, PhD Thesis, Monash University.
 &lt;a href=&#34;http://rohan-french.github.io/writing/phd-thesis.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://rohan-french.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/about/</guid>
+      <description>&lt;div class=image-left style=&#34;width:300px; border:1px solid #e0e3e5;&#34;&gt;
+&lt;img src=&#34;http://rohan-french.github.io/images/rohan-descartes.jpg&#34;&gt;
+&lt;span class=&#34;caption&#34;&gt;With Descartes at Versailles circa 2015.&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I&amp;rsquo;m &lt;span class=&#34;illuminate&#34;&gt;Dr. Rohan French&lt;/span&gt;.
+I did my PhD at Monash University in Australia under watchful eyes
+of Lloyd Humberstone, working on translations between modal logics.&lt;/p&gt;
+
+&lt;p&gt;From 2013-2014 I worked with Greg Restall and Jen Davoren on turning the University of
+Melbourne&amp;rsquo;s undergraduate logic course into a MOOC on Coursera, resulting in
+&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt; and
+&lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;Logic: Language and Information 2&lt;/a&gt;.
+One day I&amp;rsquo;ll probably put some of the Python programs I developed to put together
+the continuous assessment for the subject online here.&lt;/p&gt;
+
+&lt;p&gt;Currently I&amp;rsquo;m in the Netherlands where I&amp;rsquo;m working with Associate Professor Catarina Dutilh Novaes
+on the &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/&#34;&gt;Roots of Deduction&lt;/a&gt; project at the University of Groningen, where I&amp;rsquo;m working on connections between proof-theory and dialogue games.&lt;/p&gt;
+
+&lt;p&gt;My research is focused on issues in &lt;em&gt;philosophical logic&lt;/em&gt; and the &lt;em&gt;philosophy of logic&lt;/em&gt;. I&amp;rsquo;m
+particularly interested in issues concerning philosophical proof-theory (esp. proof-theory
+for weak quantificational logics, modal logics and varieties of inferentialism), modal logic
+(esp. first- and higher-order modal logics, and issues involving expressive power),
+translations between logics, and issues involving substructural logics. I&amp;rsquo;m generally interested in
+any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
+
+&lt;p&gt;When I&amp;rsquo;m not doing research I usually spend my time reading science-fiction and fantasy
+novels, listening to music and playing computer games.&lt;/p&gt;
+
+&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee (I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne).&lt;/p&gt;
 </description>
     </item>
     
