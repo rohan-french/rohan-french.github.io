@@ -6,8 +6,51 @@
     <description>Recent content on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2015 16:45:53 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2015 17:29:44 +0200</lastBuildDate>
     <atom:link href="http://rohan-french.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Barcan Formula, Necessary Existence and the Actuality Operator</title>
+      <link>http://rohan-french.github.io/post/barcanactually/</link>
+      <pubDate>Thu, 09 Apr 2015 17:29:44 +0200</pubDate>
+      
+      <guid>http://rohan-french.github.io/post/barcanactually/</guid>
+      <description>&lt;p&gt;One of the problems which those of us who believe that there are things which exist contingently (&lt;em&gt;Contingentists&lt;/em&gt; to use Timothy Williamson&amp;rsquo;s terminology) usually have with the Barcan Formula (=$\Diamond\exists x A \supset \exists x\Diamond A$) is that it somehow entails that everything which exists exists
+necessarily. Usually this is demonstrated by appealing to the Converse Barcan Formula as well, which by itself already makes trouble for
+the contingentist.&lt;/p&gt;
+
+&lt;p&gt;This might lead one to suspect that the Barcan
+Formula is somehow &amp;lsquo;safe&amp;rsquo; so long as it doesn&amp;rsquo;t bring the Converse Barcan Formula with it. Particular instances may have odd consequence,
+perhaps, but one might wonder whether it brings with it undesirable purely logical consequences. So long as its truth still allows that
+there are &lt;em&gt;some&lt;/em&gt; things which are contingent existents then perhaps all is well. As it happens, though, this position is untenable, as  as surely the contingentist
+must reject the principle of &amp;lsquo;Necessary Actual Existence&amp;rsquo;
+$$
+(N@E):\quad \Box\forall x @ \exists y (x = y)
+$$
+That is, the principle that necessarily everything is actual. Unfortunately, this principle is derivable from the Barcan Formula in the logic of actually.&lt;/p&gt;
+
+&lt;p&gt;Interestingly we do need quite a bit of the logic of actually to do this, in particular we need to appeal to the schemata which is
+characteristic of `real world&amp;rsquo; validity: $@A \equiv A$.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Assume $\Diamond \exists x \lnot @ \exists y ( x = y)$ for a reductio.&lt;/li&gt;
+&lt;li&gt;By the Barcan Formula we get $\exists x \Diamond\lnot @\exists y (x =y)$ by Modus Ponens.&lt;/li&gt;
+&lt;li&gt;From the principle that $\lnot @ A \equiv @\lnot A$ we get $\exists x \Diamond @\lnot\exists y (x =y)$ by the replacement of equivalents.&lt;/li&gt;
+&lt;li&gt;From the principle that $\Diamond @A \equiv @A$ we get $\exists x @\lnot\exists y (x =y)$ by the replacement of equivalents.&lt;/li&gt;
+&lt;li&gt;From the principle that $@A \equiv A$ we get $\exists x\lnot\exists y (x =y)$ by the replacement of equivalents.&lt;/li&gt;
+&lt;li&gt;But in classical predicate logic we can derive $\lnot\exists x\lnot\exists y (x =y)$.&lt;/li&gt;
+&lt;li&gt;So by reductio we can discharge our assumption and conclude $\lnot\Diamond \exists x \lnot @ \exists y ( x = y)$&lt;/li&gt;
+&lt;li&gt;So by principles valid in quantified &lt;strong&gt;K&lt;/strong&gt; we can finally conclude with $(N@E)$&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some comments are worth making on this proof. In the logic of real-world validity replacement of equiavlents is not, in general, validity preserving. What the first few steps of the above proof show, though, is that $\exists x @\lnot\exists y (x =y)$ is generally valid. Then we can go from the instance of the real-world validity schema $@\lnot\exists y (x =y) \equiv \lnot\exists y(x = y)$ to
+$\exists x(@\lnot\exists y (x =y) \equiv \lnot\exists y(x = y))$ by $(\exists I)$, which implies $\exists x@\lnot\exists y (x =y) \equiv \forall x\lnot\exists y(x = y))$, allowing us to conclude $\forall x\lnot\exists y(x = y)$ and (on the assumption that the domain is non-empty)
+$\exists x\lnot\exists y(x = y)$ as desired.&lt;/p&gt;
+
+&lt;p&gt;So even putting aside worries about us having to include some possibilia in our ontology,
+in the presence of the logic of actually the Barcan Formula seems to commit us to the conclusion that in fact all possibilia are actual existents.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Abstract for CLMPS</title>
@@ -175,6 +218,45 @@ for $x_1, \ldots x_{n}$. In the great tradition of leaving unknowns as exercises
     </item>
     
     <item>
+      <title>About</title>
+      <link>http://rohan-french.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/about/</guid>
+      <description>&lt;div class=image-left style=&#34;width:300px; border:1px solid #e0e3e5;&#34;&gt;
+&lt;img src=&#34;http://rohan-french.github.io/images/rohan-descartes.jpg&#34;&gt;
+&lt;span class=&#34;caption&#34;&gt;With Descartes at Versailles circa 2015.&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I&amp;rsquo;m &lt;span class=&#34;illuminate&#34;&gt;Dr. Rohan French&lt;/span&gt;.
+I did my PhD at Monash University in Australia under watchful eyes
+of Lloyd Humberstone, working on translations between modal logics.&lt;/p&gt;
+
+&lt;p&gt;From 2013-2014 I worked with Greg Restall and Jen Davoren on turning the University of
+Melbourne&amp;rsquo;s undergraduate logic course into a MOOC on Coursera, resulting in
+&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt; and
+&lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;Logic: Language and Information 2&lt;/a&gt;.
+One day I&amp;rsquo;ll probably put some of the Python programs I developed to put together
+the continuous assessment for the subject online here.&lt;/p&gt;
+
+&lt;p&gt;Currently I&amp;rsquo;m in the Netherlands where I&amp;rsquo;m working with Associate Professor Catarina Dutilh Novaes
+on the &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/&#34;&gt;Roots of Deduction&lt;/a&gt; project at the University of Groningen, where I&amp;rsquo;m working on connections between proof-theory and dialogue games.&lt;/p&gt;
+
+&lt;p&gt;My research is focused on issues in &lt;em&gt;philosophical logic&lt;/em&gt; and the &lt;em&gt;philosophy of logic&lt;/em&gt;. I&amp;rsquo;m
+particularly interested in issues concerning philosophical proof-theory (esp. proof-theory
+for weak quantificational logics, modal logics and varieties of inferentialism), modal logic
+(esp. first- and higher-order modal logics, and issues involving expressive power),
+translations between logics, and issues involving substructural logics. I&amp;rsquo;m generally interested in
+any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
+
+&lt;p&gt;When I&amp;rsquo;m not doing research I usually spend my time reading science-fiction and fantasy
+novels, listening to music and playing computer games.&lt;/p&gt;
+
+&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee (I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing</title>
       <link>http://rohan-french.github.io/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -253,45 +335,6 @@ descending order by year.&lt;/p&gt;
 &lt;li&gt;&lt;em&gt;Translational Embeddings in Modal Logic&lt;/em&gt;, PhD Thesis, Monash University.
 &lt;a href=&#34;http://rohan-french.github.io/writing/phd-thesis.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://rohan-french.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/about/</guid>
-      <description>&lt;div class=image-left style=&#34;width:300px; border:1px solid #e0e3e5;&#34;&gt;
-&lt;img src=&#34;http://rohan-french.github.io/images/rohan-descartes.jpg&#34;&gt;
-&lt;span class=&#34;caption&#34;&gt;With Descartes at Versailles circa 2015.&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I&amp;rsquo;m &lt;span class=&#34;illuminate&#34;&gt;Dr. Rohan French&lt;/span&gt;.
-I did my PhD at Monash University in Australia under watchful eyes
-of Lloyd Humberstone, working on translations between modal logics.&lt;/p&gt;
-
-&lt;p&gt;From 2013-2014 I worked with Greg Restall and Jen Davoren on turning the University of
-Melbourne&amp;rsquo;s undergraduate logic course into a MOOC on Coursera, resulting in
-&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt; and
-&lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;Logic: Language and Information 2&lt;/a&gt;.
-One day I&amp;rsquo;ll probably put some of the Python programs I developed to put together
-the continuous assessment for the subject online here.&lt;/p&gt;
-
-&lt;p&gt;Currently I&amp;rsquo;m in the Netherlands where I&amp;rsquo;m working with Associate Professor Catarina Dutilh Novaes
-on the &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/&#34;&gt;Roots of Deduction&lt;/a&gt; project at the University of Groningen, where I&amp;rsquo;m working on connections between proof-theory and dialogue games.&lt;/p&gt;
-
-&lt;p&gt;My research is focused on issues in &lt;em&gt;philosophical logic&lt;/em&gt; and the &lt;em&gt;philosophy of logic&lt;/em&gt;. I&amp;rsquo;m
-particularly interested in issues concerning philosophical proof-theory (esp. proof-theory
-for weak quantificational logics, modal logics and varieties of inferentialism), modal logic
-(esp. first- and higher-order modal logics, and issues involving expressive power),
-translations between logics, and issues involving substructural logics. I&amp;rsquo;m generally interested in
-any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
-
-&lt;p&gt;When I&amp;rsquo;m not doing research I usually spend my time reading science-fiction and fantasy
-novels, listening to music and playing computer games.&lt;/p&gt;
-
-&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee (I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne).&lt;/p&gt;
 </description>
     </item>
     
