@@ -208,16 +208,6 @@ for $x_1, \ldots x_{n}$. In the great tradition of leaving unknowns as exercises
     </item>
     
     <item>
-      <title>Curriculum Vitae</title>
-      <link>http://rohan-french.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/cv/</guid>
-      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>http://rohan-french.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -257,6 +247,16 @@ novels, listening to music and playing computer games.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Curriculum Vitae</title>
+      <link>http://rohan-french.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/cv/</guid>
+      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing</title>
       <link>http://rohan-french.github.io/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -273,9 +273,9 @@ descending order by year.&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&amp;ldquo;A Sequent Calculus for Urn Logic&amp;rdquo;, forthcoming in &lt;em&gt;The Journal of Logic, Language and Information&lt;/em&gt;
+&lt;li&gt;&lt;p&gt;&amp;ldquo;A Sequent Calculus for Urn Logic&amp;rdquo;, &lt;em&gt;The Journal of Logic, Language and Information&lt;/em&gt; 24 (2015), 131-147.
 &lt;a href=&#34;http://rohan-french.github.io/writing/urn-logic.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1007/s10849-015-9216-5&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1007/s10849-015-9216-5&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;(Open Access)&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&amp;ldquo;In the Mood for &lt;strong&gt;S4&lt;/strong&gt;: The Expressive Power of the Subjunctive Modal Language in Weak Background Logics&amp;rdquo;, &lt;em&gt;Studia Logica&lt;/em&gt; 103 (2015), 239-263.
 &lt;a href=&#34;http://rohan-french.github.io/writing/itmfs4.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
@@ -306,7 +306,7 @@ descending order by year.&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;(with Lloyd Humberstone) &amp;ldquo;An Observation Concerning Porte&amp;rsquo;s Rule in Modal Logic&amp;rdquo;, forthcoming in &lt;em&gt;Bulletin of the Section of Logic&lt;/em&gt;
+&lt;li&gt;&lt;p&gt;(with Lloyd Humberstone) &amp;ldquo;An Observation Concerning Porte&amp;rsquo;s Rule in Modal Logic&amp;rdquo;, &lt;em&gt;Bulletin of the Section of Logic&lt;/em&gt; 44:&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; (2015), 25-31.&lt;br /&gt;
 &lt;a href=&#34;http://rohan-french.github.io/writing/porte.pdf&#34; class=&#34;badge badge small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;(with  Dave Ripley) &amp;ldquo;Contractions of Noncontractive Consequence Relations&amp;rdquo;, &lt;em&gt;Review of Symbolic Logic&lt;/em&gt; (forthcoming)
