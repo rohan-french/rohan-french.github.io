@@ -69,7 +69,7 @@ plaintext. To rectify this, for those that are interested, a loveingly MathML
 rendered version of my abstract appears below the fold.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;h2 id=&#34;a-hypersequent-calculus-for-contingent-existence-abstract:ac9d014eb02269a41f642e63c13d9dda&#34;&gt;A Hypersequent Calculus for Contingent Existence (Abstract)&lt;/h2&gt;
+&lt;h3 id=&#34;a-hypersequent-calculus-for-contingent-existence-abstract:ac9d014eb02269a41f642e63c13d9dda&#34;&gt;A Hypersequent Calculus for Contingent Existence (Abstract)&lt;/h3&gt;
 
 &lt;p&gt;It is well known that the most straightforward way of adding rules for the quantifiers to any adequate sequent calculus for the modal logic
 &lt;strong&gt;S5&lt;/strong&gt; allows for the derivation of the Barcan Formula&amp;mdash;$\diamondsuit\exists x\varphi \to \exists x \diamondsuit\varphi$. This result is
@@ -208,16 +208,6 @@ for $x_1, \ldots x_{n}$. In the great tradition of leaving unknowns as exercises
     </item>
     
     <item>
-      <title>Curriculum Vitae</title>
-      <link>http://rohan-french.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/cv/</guid>
-      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>http://rohan-french.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -252,7 +242,17 @@ any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
 &lt;p&gt;When I&amp;rsquo;m not doing research I usually spend my time reading science-fiction and fantasy
 novels, listening to music and playing computer games.&lt;/p&gt;
 
-&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee (I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne).&lt;/p&gt;
+&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee. I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://rohan-french.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/cv/</guid>
+      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -268,7 +268,7 @@ novels, listening to music and playing computer games.&lt;/p&gt;
 &lt;span class=&#34;badge badge-small&#34;&gt;[doi]&lt;/span&gt; link where available. All publications are listed in
 descending order by year.&lt;/p&gt;
 
-&lt;h2 id=&#34;single-author-publications:a65cffa9c73225e9b2db0699034df561&#34;&gt;Single Author Publications&lt;/h2&gt;
+&lt;h3 id=&#34;single-author-publications:a65cffa9c73225e9b2db0699034df561&#34;&gt;Single Author Publications&lt;/h3&gt;
 
 &lt;hr /&gt;
 
@@ -301,7 +301,7 @@ descending order by year.&lt;/p&gt;
 &lt;a href=&#34;http://dx.doi.org/10.1215/00294527-2008-003&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;co-authored-publications:a65cffa9c73225e9b2db0699034df561&#34;&gt;Co-Authored Publications&lt;/h2&gt;
+&lt;h3 id=&#34;co-authored-publications:a65cffa9c73225e9b2db0699034df561&#34;&gt;Co-Authored Publications&lt;/h3&gt;
 
 &lt;hr /&gt;
 
@@ -317,7 +317,7 @@ descending order by year.&lt;/p&gt;
 &lt;br /&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;&lt;a href=&#34;http://ojs.victoria.ac.nz/ajl/article/view/1808&#34; class=badge-small&gt;Available Online from the AJL.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;reviews:a65cffa9c73225e9b2db0699034df561&#34;&gt;Reviews&lt;/h2&gt;
+&lt;h3 id=&#34;reviews:a65cffa9c73225e9b2db0699034df561&#34;&gt;Reviews&lt;/h3&gt;
 
 &lt;hr /&gt;
 
@@ -327,7 +327,7 @@ descending order by year.&lt;/p&gt;
 &lt;a href=&#34;http://dx.doi.org/10.1080/00048402.2014.887738&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;unpublished:a65cffa9c73225e9b2db0699034df561&#34;&gt;Unpublished&lt;/h2&gt;
+&lt;h3 id=&#34;unpublished:a65cffa9c73225e9b2db0699034df561&#34;&gt;Unpublished&lt;/h3&gt;
 
 &lt;hr /&gt;
 
