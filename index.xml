@@ -6,8 +6,29 @@
     <description>Recent content on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2015 22:05:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rohan-french.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Structural Reflexivity and the Semantic Paradoxes</title>
+      <link>http://rohan-french.github.io/presentations/presentations/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <description>&lt;p&gt;That one can deal with the semantic paradoxes by restricting or rejecting structural rules is
+now relatively well known. In particular, solutions which reject the structural rule of cut and
+contraction are currently en vogue. What has not been seriously considered are the prospects
+of dealing with the paradoxes by rejecting the ur-structural rule of reflexivity—for all
+formulas $A$: $A \vdash A$. Here we will show that the non-reflexive approach to the semantic
+paradoxes bears further investigation. In particular we will show that a fully non-reflexive
+approach can capture much of what is desirable about classical reasoning.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;More details are available at the GAP.9 Website &lt;a href=&#34;http://gap9.de/en/?section=program&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Here is the &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/nfsp-handout.pdf&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>McGee on Necessitation and Conditional Proof</title>
@@ -326,6 +347,16 @@ for $x_1, \ldots x_{n}$. In the great tradition of leaving unknowns as exercises
     </item>
     
     <item>
+      <title>Curriculum Vitae</title>
+      <link>http://rohan-french.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/cv/</guid>
+      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>http://rohan-french.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -361,16 +392,6 @@ any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
 novels, listening to music and playing computer games.&lt;/p&gt;
 
 &lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee. I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Curriculum Vitae</title>
-      <link>http://rohan-french.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/cv/</guid>
-      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
 </description>
     </item>
     

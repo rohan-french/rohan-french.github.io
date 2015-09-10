@@ -6,8 +6,29 @@
     <description>Recent content in Presentations on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rohan-french.github.io/presentations/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Structural Reflexivity and the Semantic Paradoxes</title>
+      <link>http://rohan-french.github.io/presentations/presentations/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <description>&lt;p&gt;That one can deal with the semantic paradoxes by restricting or rejecting structural rules is
+now relatively well known. In particular, solutions which reject the structural rule of cut and
+contraction are currently en vogue. What has not been seriously considered are the prospects
+of dealing with the paradoxes by rejecting the ur-structural rule of reflexivity—for all
+formulas $A$: $A \vdash A$. Here we will show that the non-reflexive approach to the semantic
+paradoxes bears further investigation. In particular we will show that a fully non-reflexive
+approach can capture much of what is desirable about classical reasoning.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;More details are available at the GAP.9 Website &lt;a href=&#34;http://gap9.de/en/?section=program&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Here is the &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/nfsp-handout.pdf&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Hypersequent Calculi for Contingent Existence</title>
