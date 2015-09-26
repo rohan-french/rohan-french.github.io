@@ -6,8 +6,24 @@
     <description>Recent content on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rohan-french.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prover-Skeptic Games and Logical Pluralism</title>
+      <link>http://rohan-french.github.io/presentations/presentations/</link>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <description>&lt;p&gt;According to the logical pluralist, there may be more than one legitimate answer to the question of whether a given deductive argument is valid. The pluralist faces a challenge, though, to explain how this could be so. In this paper I show that by adopting the &amp;lsquo;built-in opponent&amp;rsquo; conception of deduction, a specific multi-agent dialogical account of our deductive practices, we can address the explanatory challenge: the different logics arise out of different norms effecting our argumentative and explanatory practices. In order to clarify our position we introduce Prover-Skeptic games, a novel kind of dialogue game introduced by Sørensen &amp;amp; Urzyczyn. Unlike traditional Lorenzen and Hintikka style dialogue games, theses are games of &amp;lsquo;proof-construction&amp;rsquo; as opposed to &amp;lsquo;formula-evaluation&amp;rsquo;, and thus they connect up better with the built-in opponent view of our deductive practices. We give a uniform adequacy result for a class of substructural implicational logics relative to Prover-Skeptic games, with the changes in the structural rules in play being reflected in a uniform manner in the dialogue game.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;More details are available at the GAP.9 Website &lt;a href=&#34;http://www.logic.at/staff/roschger/workshop/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Here is the &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/lpps-handout.pdf&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Here are the &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/lpps-slides.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Structural Reflexivity and the Semantic Paradoxes</title>
@@ -348,6 +364,16 @@ for $x_1, \ldots x_{n}$. In the great tradition of leaving unknowns as exercises
     </item>
     
     <item>
+      <title>Curriculum Vitae</title>
+      <link>http://rohan-french.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/cv/</guid>
+      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>http://rohan-french.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -387,16 +413,6 @@ novels, listening to music and playing computer games.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Curriculum Vitae</title>
-      <link>http://rohan-french.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/cv/</guid>
-      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Writing</title>
       <link>http://rohan-french.github.io/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -413,6 +429,10 @@ descending order by year.&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&amp;ldquo;An Argument for the Ontological Innocence of Mereology&amp;rdquo;, forthcoming in &lt;em&gt;Erkenntnis&lt;/em&gt; .
+&lt;a href=&#34;http://rohan-french.github.io/writing/mereology.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1007/s10670-015-9762-x&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;(Open Access)&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&amp;ldquo;A Sequent Calculus for Urn Logic&amp;rdquo;, &lt;em&gt;The Journal of Logic, Language and Information&lt;/em&gt; 24 (2015), 131-147.
 &lt;a href=&#34;http://rohan-french.github.io/writing/urn-logic.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
 &lt;a href=&#34;http://dx.doi.org/10.1007/s10849-015-9216-5&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;(Open Access)&lt;/p&gt;&lt;/li&gt;
