@@ -6,8 +6,29 @@
     <description>Recent content on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rohan-french.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dialogue Games for Bilateralism: Towards a Multi-Agent Account</title>
+      <link>http://rohan-french.github.io/presentations/presentations/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <description>&lt;p&gt;According to &lt;em&gt;bilateralists&lt;/em&gt; we can think of logic as involving constraints on assertion and denial: a sequent $X\vdash Y$ being
+valid whenever asserting all the sentences in $X$ and denying all the sentences in $Y$ invovles a clash. This account raises
+two immediate questions: assertion and denial are social acts involving multiple agents, but barely a single agent is present in bilateralist accounts (them mostly involving `assertion in the void&amp;rsquo;); and secondly we need to know what is involved in a package
+of assertions and denials involving a clash. I address both of these problems by looking at odd dialogue games intended to model
+cooperative explorations of conversational positions.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;More details about the workshop are available &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Here are the &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/bilateralism-slides.pdf&#34;&gt;Slides&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Prover-Skeptic Games and Logical Pluralism</title>
@@ -364,16 +385,6 @@ for $x_1, \ldots x_{n}$. In the great tradition of leaving unknowns as exercises
     </item>
     
     <item>
-      <title>Curriculum Vitae</title>
-      <link>http://rohan-french.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/cv/</guid>
-      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>http://rohan-french.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -409,6 +420,16 @@ any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
 novels, listening to music and playing computer games.&lt;/p&gt;
 
 &lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee. I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://rohan-french.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/cv/</guid>
+      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
 </description>
     </item>
     
