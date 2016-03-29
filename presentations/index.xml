@@ -6,15 +6,34 @@
     <description>Recent content in Presentations on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2016 22:50:24 +0200</lastBuildDate>
     <atom:link href="http://rohan-french.github.io/presentations/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Prover-Skeptic Games and Logical Pluralism</title>
-      <link>http://rohan-french.github.io/presentations/presentations/</link>
-      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      <title>A Dialogical Account of Logical Pluralism</title>
+      <link>http://rohan-french.github.io/presentations/groningen-proverskeptic/</link>
+      <pubDate>Fri, 08 Apr 2016 22:50:24 +0200</pubDate>
       
-      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <guid>http://rohan-french.github.io/presentations/groningen-proverskeptic/</guid>
+      <description>&lt;p&gt;According to logical pluralists there may be more than one legitimate answer to the question of whether a given deductive argument is valid.
+Those who wish to defend a pluralist position face a kind of explanatory challenge: how can there be multiple correct notions of logical
+consequence. In the present talk I will argue that adopting a multi-agent dialogical account of logical consequence allows quite directly
+for an interesting form of logical pluralism. In order to clarify the position I introduce &lt;em&gt;Prover-Skeptic Games&lt;/em&gt;, a novel kind of
+dialogue game (initially introduced by Sørensen &amp;amp; Urzyczyn in the context of the lambda-calculus) which more closely resembles &amp;lsquo;proof-construction&amp;rsquo; rather than &amp;lsquo;formula-evaluation&amp;rsquo;. We then use these dialogue games to show how interest-relative
+features of explanation result in an interest-relative form of logical pluralism.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;More details about the workshop can be found &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/closing-workshop-the-roots-of-deduction&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prover-Skeptic Games and Logical Pluralism</title>
+      <link>http://rohan-french.github.io/presentations/amsterdam-proverskeptic/</link>
+      <pubDate>Thu, 17 Dec 2015 22:50:24 +0200</pubDate>
+      
+      <guid>http://rohan-french.github.io/presentations/amsterdam-proverskeptic/</guid>
       <description>&lt;p&gt;According to the logical pluralist, there may be more than one legitimate answer to the question of whether a given deductive argument is valid. The pluralist faces a challenge, though, to explain how this could be so. In this paper I show that by adopting the &amp;lsquo;built-in opponent&amp;rsquo; conception of deduction, a specific multi-agent dialogical account of our deductive practices, we can address the explanatory challenge: the different logics arise out of different norms effecting our argumentative and explanatory practices. In order to clarify our position we introduce Prover-Skeptic games, a novel kind of dialogue game introduced by Sørensen &amp;amp; Urzyczyn. Unlike traditional Lorenzen and Hintikka style dialogue games, theses are games of &amp;lsquo;proof-construction&amp;rsquo; as opposed to &amp;lsquo;formula-evaluation&amp;rsquo;, and thus they connect up better with the built-in opponent view of our deductive practices. We give a uniform adequacy result for a class of substructural implicational logics relative to Prover-Skeptic games, with the changes in the structural rules in play being reflected in a uniform manner in the dialogue game.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -27,10 +46,10 @@
     
     <item>
       <title>Dialogue Games for Bilateralism: Towards a Multi-Agent Account</title>
-      <link>http://rohan-french.github.io/presentations/presentations/</link>
-      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      <link>http://rohan-french.github.io/presentations/standrews-bilateralismgames/</link>
+      <pubDate>Wed, 25 Nov 2015 22:50:24 +0200</pubDate>
       
-      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <guid>http://rohan-french.github.io/presentations/standrews-bilateralismgames/</guid>
       <description>&lt;p&gt;According to &lt;em&gt;bilateralists&lt;/em&gt; we can think of logic as involving constraints on assertion and denial: a sequent $X\vdash Y$ being
 valid whenever asserting all the sentences in $X$ and denying all the sentences in $Y$ invovles a clash. This account raises
 two immediate questions: assertion and denial are social acts involving multiple agents, but barely a single agent is present in bilateralist accounts (them mostly involving `assertion in the void&amp;rsquo;); and secondly we need to know what is involved in a package
@@ -46,10 +65,10 @@ cooperative explorations of conversational positions.&lt;/p&gt;
     
     <item>
       <title>Prover-Skeptic Games and Logical Pluralism</title>
-      <link>http://rohan-french.github.io/presentations/presentations/</link>
-      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      <link>http://rohan-french.github.io/presentations/tuvienna-proverskeptic/</link>
+      <pubDate>Tue, 29 Sep 2015 22:50:24 +0200</pubDate>
       
-      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <guid>http://rohan-french.github.io/presentations/tuvienna-proverskeptic/</guid>
       <description>&lt;p&gt;According to the logical pluralist, there may be more than one legitimate answer to the question of whether a given deductive argument is valid. The pluralist faces a challenge, though, to explain how this could be so. In this paper I show that by adopting the &amp;lsquo;built-in opponent&amp;rsquo; conception of deduction, a specific multi-agent dialogical account of our deductive practices, we can address the explanatory challenge: the different logics arise out of different norms effecting our argumentative and explanatory practices. In order to clarify our position we introduce Prover-Skeptic games, a novel kind of dialogue game introduced by Sørensen &amp;amp; Urzyczyn. Unlike traditional Lorenzen and Hintikka style dialogue games, theses are games of &amp;lsquo;proof-construction&amp;rsquo; as opposed to &amp;lsquo;formula-evaluation&amp;rsquo;, and thus they connect up better with the built-in opponent view of our deductive practices. We give a uniform adequacy result for a class of substructural implicational logics relative to Prover-Skeptic games, with the changes in the structural rules in play being reflected in a uniform manner in the dialogue game.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -62,10 +81,10 @@ cooperative explorations of conversational positions.&lt;/p&gt;
     
     <item>
       <title>Structural Reflexivity and the Semantic Paradoxes</title>
-      <link>http://rohan-french.github.io/presentations/presentations/</link>
-      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      <link>http://rohan-french.github.io/presentations/gap9-2015/</link>
+      <pubDate>Thu, 17 Sep 2015 22:50:24 +0200</pubDate>
       
-      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <guid>http://rohan-french.github.io/presentations/gap9-2015/</guid>
       <description>&lt;p&gt;That one can deal with the semantic paradoxes by restricting or rejecting structural rules is
 now relatively well known. In particular, solutions which reject the structural rule of cut and
 contraction are currently en vogue. What has not been seriously considered are the prospects
@@ -83,11 +102,11 @@ approach can capture much of what is desirable about classical reasoning.&lt;/p&
     </item>
     
     <item>
-      <title>Hypersequent Calculi for Contingent Existence</title>
-      <link>http://rohan-french.github.io/presentations/presentations/</link>
-      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      <title> Hypersequent Calculi for Contingent Existence</title>
+      <link>http://rohan-french.github.io/presentations/clmps-2015/</link>
+      <pubDate>Wed, 05 Aug 2015 11:00:24 +0200</pubDate>
       
-      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <guid>http://rohan-french.github.io/presentations/clmps-2015/</guid>
       <description>&lt;p&gt;It is well known that the most straightforward way of adding rules for the quantifiers to
 any adequate sequent calculus for the modal logic &lt;strong&gt;S5&lt;/strong&gt; allows for the derivation of the
 Barcan formula&amp;mdash;$\diamondsuit\exists x\varphi \to \exists x \diamondsuit\varphi$. This
@@ -100,13 +119,10 @@ language as &amp;ldquo;$\diamondsuit\ a\ Fa$&amp;ldquo;) and &amp;ldquo;concerni
 of these
 formulas.&lt;/p&gt;
 
-&lt;ul&gt;
+&lt;p&gt;&lt;ul&gt;
 &lt;li&gt;More details are available on the event page on Sched &lt;a href=&#34;https://clmps2015.sched.org/event/264355f37ef212cef4a6d1af3eab0a6d&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Here are the &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/hcfce-slides.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Here is the &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/hcfce-handout.pdf&#34;&gt;Handout&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;Here is the &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/hcfce-handout.pdf&#34;&gt;Handout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

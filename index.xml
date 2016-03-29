@@ -6,15 +6,34 @@
     <description>Recent content on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2016 22:50:24 +0200</lastBuildDate>
     <atom:link href="http://rohan-french.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Prover-Skeptic Games and Logical Pluralism</title>
-      <link>http://rohan-french.github.io/presentations/presentations/</link>
-      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      <title>A Dialogical Account of Logical Pluralism</title>
+      <link>http://rohan-french.github.io/presentations/groningen-proverskeptic/</link>
+      <pubDate>Fri, 08 Apr 2016 22:50:24 +0200</pubDate>
       
-      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <guid>http://rohan-french.github.io/presentations/groningen-proverskeptic/</guid>
+      <description>&lt;p&gt;According to logical pluralists there may be more than one legitimate answer to the question of whether a given deductive argument is valid.
+Those who wish to defend a pluralist position face a kind of explanatory challenge: how can there be multiple correct notions of logical
+consequence. In the present talk I will argue that adopting a multi-agent dialogical account of logical consequence allows quite directly
+for an interesting form of logical pluralism. In order to clarify the position I introduce &lt;em&gt;Prover-Skeptic Games&lt;/em&gt;, a novel kind of
+dialogue game (initially introduced by Sørensen &amp;amp; Urzyczyn in the context of the lambda-calculus) which more closely resembles &amp;lsquo;proof-construction&amp;rsquo; rather than &amp;lsquo;formula-evaluation&amp;rsquo;. We then use these dialogue games to show how interest-relative
+features of explanation result in an interest-relative form of logical pluralism.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;More details about the workshop can be found &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/closing-workshop-the-roots-of-deduction&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prover-Skeptic Games and Logical Pluralism</title>
+      <link>http://rohan-french.github.io/presentations/amsterdam-proverskeptic/</link>
+      <pubDate>Thu, 17 Dec 2015 22:50:24 +0200</pubDate>
+      
+      <guid>http://rohan-french.github.io/presentations/amsterdam-proverskeptic/</guid>
       <description>&lt;p&gt;According to the logical pluralist, there may be more than one legitimate answer to the question of whether a given deductive argument is valid. The pluralist faces a challenge, though, to explain how this could be so. In this paper I show that by adopting the &amp;lsquo;built-in opponent&amp;rsquo; conception of deduction, a specific multi-agent dialogical account of our deductive practices, we can address the explanatory challenge: the different logics arise out of different norms effecting our argumentative and explanatory practices. In order to clarify our position we introduce Prover-Skeptic games, a novel kind of dialogue game introduced by Sørensen &amp;amp; Urzyczyn. Unlike traditional Lorenzen and Hintikka style dialogue games, theses are games of &amp;lsquo;proof-construction&amp;rsquo; as opposed to &amp;lsquo;formula-evaluation&amp;rsquo;, and thus they connect up better with the built-in opponent view of our deductive practices. We give a uniform adequacy result for a class of substructural implicational logics relative to Prover-Skeptic games, with the changes in the structural rules in play being reflected in a uniform manner in the dialogue game.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -27,10 +46,10 @@
     
     <item>
       <title>Dialogue Games for Bilateralism: Towards a Multi-Agent Account</title>
-      <link>http://rohan-french.github.io/presentations/presentations/</link>
-      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      <link>http://rohan-french.github.io/presentations/standrews-bilateralismgames/</link>
+      <pubDate>Wed, 25 Nov 2015 22:50:24 +0200</pubDate>
       
-      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <guid>http://rohan-french.github.io/presentations/standrews-bilateralismgames/</guid>
       <description>&lt;p&gt;According to &lt;em&gt;bilateralists&lt;/em&gt; we can think of logic as involving constraints on assertion and denial: a sequent $X\vdash Y$ being
 valid whenever asserting all the sentences in $X$ and denying all the sentences in $Y$ invovles a clash. This account raises
 two immediate questions: assertion and denial are social acts involving multiple agents, but barely a single agent is present in bilateralist accounts (them mostly involving `assertion in the void&amp;rsquo;); and secondly we need to know what is involved in a package
@@ -46,10 +65,10 @@ cooperative explorations of conversational positions.&lt;/p&gt;
     
     <item>
       <title>Prover-Skeptic Games and Logical Pluralism</title>
-      <link>http://rohan-french.github.io/presentations/presentations/</link>
-      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      <link>http://rohan-french.github.io/presentations/tuvienna-proverskeptic/</link>
+      <pubDate>Tue, 29 Sep 2015 22:50:24 +0200</pubDate>
       
-      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <guid>http://rohan-french.github.io/presentations/tuvienna-proverskeptic/</guid>
       <description>&lt;p&gt;According to the logical pluralist, there may be more than one legitimate answer to the question of whether a given deductive argument is valid. The pluralist faces a challenge, though, to explain how this could be so. In this paper I show that by adopting the &amp;lsquo;built-in opponent&amp;rsquo; conception of deduction, a specific multi-agent dialogical account of our deductive practices, we can address the explanatory challenge: the different logics arise out of different norms effecting our argumentative and explanatory practices. In order to clarify our position we introduce Prover-Skeptic games, a novel kind of dialogue game introduced by Sørensen &amp;amp; Urzyczyn. Unlike traditional Lorenzen and Hintikka style dialogue games, theses are games of &amp;lsquo;proof-construction&amp;rsquo; as opposed to &amp;lsquo;formula-evaluation&amp;rsquo;, and thus they connect up better with the built-in opponent view of our deductive practices. We give a uniform adequacy result for a class of substructural implicational logics relative to Prover-Skeptic games, with the changes in the structural rules in play being reflected in a uniform manner in the dialogue game.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -62,10 +81,10 @@ cooperative explorations of conversational positions.&lt;/p&gt;
     
     <item>
       <title>Structural Reflexivity and the Semantic Paradoxes</title>
-      <link>http://rohan-french.github.io/presentations/presentations/</link>
-      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      <link>http://rohan-french.github.io/presentations/gap9-2015/</link>
+      <pubDate>Thu, 17 Sep 2015 22:50:24 +0200</pubDate>
       
-      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <guid>http://rohan-french.github.io/presentations/gap9-2015/</guid>
       <description>&lt;p&gt;That one can deal with the semantic paradoxes by restricting or rejecting structural rules is
 now relatively well known. In particular, solutions which reject the structural rule of cut and
 contraction are currently en vogue. What has not been seriously considered are the prospects
@@ -85,7 +104,7 @@ approach can capture much of what is desirable about classical reasoning.&lt;/p&
     <item>
       <title>McGee on Necessitation and Conditional Proof</title>
       <link>http://rohan-french.github.io/post/rules-inference-proof/</link>
-      <pubDate>Wed, 19 Aug 2015 22:05:37 +0200</pubDate>
+      <pubDate>Wed, 19 Aug 2015 04:35:45 +0100</pubDate>
       
       <guid>http://rohan-french.github.io/post/rules-inference-proof/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been taking great pleasure in reading &lt;a href=&#34;https://sites.google.com/site/olehjortland/&#34;&gt;Ole Hjortland&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/site/colincaret/&#34;&gt;Colin Caret&lt;/a&gt;&amp;rsquo;s recent edited
@@ -94,6 +113,8 @@ project. So far I&amp;rsquo;ve greatly enjoyed every paper in the collection. Wh
 here is a rather curious passage in Van McGee&amp;rsquo;s contribution &amp;ldquo;The Categoricity of Logic&amp;rdquo;.
 After claiming that the meanings of the sentential-connectives are given by their natural
 deduction rules McGee goes on to make the following, rather curious, comment.&lt;/p&gt;
+
+&lt;!-- more --&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;In proposing this, I don&amp;rsquo;t want to go to the extreme of saying that any inferential system
@@ -169,15 +190,16 @@ more besides) at &lt;a href=&#34;http://plato.stanford.edu/entries/connectives-l
 
 &lt;p&gt;[2] &lt;a name=&#34;fn2&#34;&gt;&lt;/a&gt;L. Humberstone, &amp;ldquo;Smiley&amp;rsquo;s Distinction
 between Rules of Inference and Rules of Proof&amp;rdquo;, In T. J. Smiley, Jonathan Lear &amp;amp; Alex Oliver (eds.), &lt;em&gt;The Force of Argument: Essays in Honor of Timothy Smiley&lt;/em&gt;. Routledge 107&amp;ndash;126 (2010)&lt;/p&gt;
+  
 </description>
     </item>
     
     <item>
-      <title>Hypersequent Calculi for Contingent Existence</title>
-      <link>http://rohan-french.github.io/presentations/presentations/</link>
-      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      <title> Hypersequent Calculi for Contingent Existence</title>
+      <link>http://rohan-french.github.io/presentations/clmps-2015/</link>
+      <pubDate>Wed, 05 Aug 2015 11:00:24 +0200</pubDate>
       
-      <guid>http://rohan-french.github.io/presentations/presentations/</guid>
+      <guid>http://rohan-french.github.io/presentations/clmps-2015/</guid>
       <description>&lt;p&gt;It is well known that the most straightforward way of adding rules for the quantifiers to
 any adequate sequent calculus for the modal logic &lt;strong&gt;S5&lt;/strong&gt; allows for the derivation of the
 Barcan formula&amp;mdash;$\diamondsuit\exists x\varphi \to \exists x \diamondsuit\varphi$. This
@@ -190,20 +212,17 @@ language as &amp;ldquo;$\diamondsuit\ a\ Fa$&amp;ldquo;) and &amp;ldquo;concerni
 of these
 formulas.&lt;/p&gt;
 
-&lt;ul&gt;
+&lt;p&gt;&lt;ul&gt;
 &lt;li&gt;More details are available on the event page on Sched &lt;a href=&#34;https://clmps2015.sched.org/event/264355f37ef212cef4a6d1af3eab0a6d&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Here are the &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/hcfce-slides.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Here is the &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/hcfce-handout.pdf&#34;&gt;Handout&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;Here is the &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/hcfce-handout.pdf&#34;&gt;Handout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Barcan Formula, Necessary Existence and the Actuality Operator</title>
       <link>http://rohan-french.github.io/post/barcanactually/</link>
-      <pubDate>Thu, 09 Apr 2015 17:29:44 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2015 04:35:45 +0100</pubDate>
       
       <guid>http://rohan-french.github.io/post/barcanactually/</guid>
       <description>&lt;p&gt;One of the problems which those of us who believe that there are things which exist contingently (&lt;em&gt;Contingentists&lt;/em&gt; to use Timothy Williamson&amp;rsquo;s terminology) usually have with the Barcan Formula (=$\Diamond\exists x A \supset \exists x\Diamond A$) is that it somehow entails that everything which exists exists
@@ -212,7 +231,7 @@ the contingentist.&lt;/p&gt;
 
 &lt;p&gt;This might lead one to suspect that the Barcan
 Formula is somehow &amp;lsquo;safe&amp;rsquo; so long as it doesn&amp;rsquo;t bring the Converse Barcan Formula with it. Particular instances may have odd consequence,
-perhaps, but one might wonder whether it brings with it undesirable purely logical consequences. So long as its truth still allows that
+perhaps, but one might wonder whether it brings with it undesirable purely logical consequences. &lt;!-- more --&gt; So long as its truth still allows that
 there are &lt;em&gt;some&lt;/em&gt; things which are contingent existents then perhaps all is well. As it happens, though, this position is untenable, as  as surely the contingentist
 must reject the principle of &amp;lsquo;Necessary Actual Existence&amp;rsquo;
 $$
@@ -240,58 +259,17 @@ $\exists x\lnot\exists y(x = y)$ as desired.&lt;/p&gt;
 
 &lt;p&gt;So even putting aside worries about us having to include some possibilia in our ontology,
 in the presence of the logic of actually the Barcan Formula seems to commit us to the conclusion that in fact all possibilia are actual existents.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Abstract for CLMPS</title>
-      <link>http://rohan-french.github.io/post/abstract/</link>
-      <pubDate>Wed, 08 Apr 2015 16:45:53 +0200</pubDate>
-      
-      <guid>http://rohan-french.github.io/post/abstract/</guid>
-      <description>
-
-&lt;p&gt;For those that (for some unknown reason) get their news about what&amp;rdquo;s happening
-from this little corner of the internet, the &lt;a href=&#34;http://clmps.helsinki.fi/&#34;&gt;15th Congress on Logic, Methodology
-and the Philosophy of Science&lt;/a&gt; is coming up in a few months, and today the
-schedule and abstracts were posted on the website. As is common with many
-things in this world we live in, lovely LaTeX was killed in the creation of
-plaintext. To rectify this, for those that are interested, a loveingly MathML
-rendered version of my abstract appears below the fold.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;h3 id=&#34;a-hypersequent-calculus-for-contingent-existence-abstract:ac9d014eb02269a41f642e63c13d9dda&#34;&gt;A Hypersequent Calculus for Contingent Existence (Abstract)&lt;/h3&gt;
-
-&lt;p&gt;It is well known that the most straightforward way of adding rules for the quantifiers to any adequate sequent calculus for the modal logic
-&lt;strong&gt;S5&lt;/strong&gt; allows for the derivation of the Barcan Formula&amp;mdash;$\diamondsuit\exists x\varphi \to \exists x \diamondsuit\varphi$. This result is
-philosophically undesirably as, contra the Barcan Formula, common-sense metaphysics would have it that things can possibly exist without
-actually existing. In this paper we give an account of what is
-suspect about such derivations by making use of a modal object language with primitive scope indicators in which, in addition to their usual
-&amp;ldquo;object denoting&amp;rdquo; role we also employ terms in a &amp;ldquo;scope indicating&amp;rdquo; capacity. Using this modal object language we can diagnose the
-derivability of the Barcan formula in the standard language as arising out of the elision of a scope distinction between &amp;ldquo;possibly,
-$a$ is $F$&amp;rdquo; (written in this language as &amp;ldquo;$\diamondsuit\ a\ Fa$&amp;ldquo;) and &amp;ldquo;concerning $a$, possibly it is $F$&amp;rdquo; (written as &amp;ldquo;$a\ \diamondsuit
-Fa$&amp;ldquo;), where we are only able to infer &amp;ldquo;$\exists x \diamondsuit Fx$&amp;rdquo; from  the second of these formulas.&lt;/p&gt;
-
-&lt;p&gt;In order to manipulate this object language we make use of &amp;ldquo;importation&amp;rdquo; and &amp;ldquo;exportation&amp;rdquo; rules which govern the movement of scope indicators
-in addition to more standard left- and right-insertion rules. Furthermore, we also make use of a distinction between rules which
-introduce a context into which we can quantify, and those which (prior to the use of importation/exportation rules) we cannot&amp;mdash;the rules for
-negation and the modal operators being of this second kind. The resultant
-modal hypersequent calculi provided is sound and complete w.r.t. first-order Kripke models with non-constant domains.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Apparently I&amp;rsquo;m on in the 11:00-13:00 session on the 5th of August, in a great session on modal logic and mereology with Volker Halbach, Peter Fritz, and Hsing-chien Tsai&amp;mdash;so come along to see them, and see me talk about hypersequents and quantification for free :)&lt;/p&gt;
+ 
 </description>
     </item>
     
     <item>
       <title>Urn Logic, Quantification and Modal Logic</title>
       <link>http://rohan-french.github.io/post/urn-logic/</link>
-      <pubDate>Fri, 13 Mar 2015 20:07:56 +0100</pubDate>
+      <pubDate>Fri, 13 Mar 2015 04:35:45 +0100</pubDate>
       
       <guid>http://rohan-french.github.io/post/urn-logic/</guid>
-      <description>
-
-&lt;p&gt;One of the great pleasures of doing logic is finding problems in one area which can be solved using the techniques and
+      <description>&lt;p&gt;One of the great pleasures of doing logic is finding problems in one area which can be solved using the techniques and
 insights from another. What I want to briefly mention here is a neat example of this involving an interesting approach
 to quantificational logic due to Veikko Rantala called &lt;a href=&#34;http://dx.doi.org/10.1007/BF00558760&#34;&gt;&amp;lsquo;Urn Logic&amp;rsquo;&lt;/a&gt;. The core idea behind urn logic&amp;rsquo;s semantics for the
 quantifiers is that the objects which the quantifiers range over can vary over the course of the evaluation of a formula,
@@ -373,6 +351,7 @@ the free-variables in $\varphi$ for $s$ is vacuously satisfied in the case where
 that there is no &lt;em&gt;sentence&lt;/em&gt; which is true in precisely those urn models in which for all $n$ we have $a_{i} \in D(\langle a_{1}, \ldots, a_{n}\rangle)$ for $1 \leq i \leq n$.  In order to show that there is no such formula of any kind we would need to show that for every
 set of variables $x_1, \ldots x_{n}$ and $\mathcal{M}$-assignment $s$ there is a $\mathcal{M}^{d}$-assignment $s&amp;rsquo;$ which is safe
 for $x_1, \ldots x_{n}$. In the great tradition of leaving unknowns as exercises, I leave this as an exercise to the reader.&lt;/p&gt;
+ 
 </description>
     </item>
     
@@ -382,7 +361,7 @@ for $x_1, \ldots x_{n}$. In the great tradition of leaving unknowns as exercises
       <pubDate>Fri, 27 Feb 2015 04:35:45 +0100</pubDate>
       
       <guid>http://rohan-french.github.io/post/introductions/</guid>
-      <description>&lt;p&gt;Hello! Welcome to this, the website of Rohan French, Australian philosophical logician at large in Europe. I&amp;rsquo;ve been meaning to put this site together for some time, and was recently inspired by the redesign of Greg Restall&amp;rsquo;s wonderful &lt;a href=&#34;http://consequently.org&#34;&gt;consequently.org&lt;/a&gt;, and how pleasant (for a tinkerer who briefly worked as a web developer) &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; was to use.&lt;/p&gt;
+      <description>&lt;p&gt;Hello! Welcome to this, the website of Rohan French, Australian philosohical logician at large in Europe. I&amp;rsquo;ve been meaning to put this site together for some time, and was recently inspired by the redesign of Greg Restall&amp;rsquo;s wonderful &lt;a href=&#34;http://consequently.org&#34;&gt;consequently.org&lt;/a&gt;, and how pleasant (for a tinkerer who briefly worked as a web developer) &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; was to use.&lt;/p&gt;
 
 &lt;p&gt;My hope is that this won&amp;rsquo;t just be another repository for pre-prints of publications, like many academic websites are. That&amp;rsquo;s not to say that such sites are bad, mind you, but (vanity aside) I could simply do that using a google site. What I want to do here is to &lt;em&gt;not just&lt;/em&gt; store pre-prints (and drafts) of my papers here, but also share various thoughts and results which are perhaps not immediately destined for publication&amp;mdash;such as  minor technical results, or thoughts on papers. Hopefully I&amp;rsquo;ll also eventually talk a bit about some of the small python programs I put together to create some of the assessment for &lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt; and &lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;Logic: Langauge and Information 2&lt;/a&gt;, and how they might be helpful in face-to-face teaching.&lt;/p&gt;
 
@@ -395,16 +374,6 @@ for $x_1, \ldots x_{n}$. In the great tradition of leaving unknowns as exercises
 &lt;/ul&gt;
 
 &lt;p&gt;For the time being, you can also find me on twitter at &lt;a href=&#34;http://twitter.com/RohanFrench&#34;&gt;@RohanFrench&lt;/a&gt;, or email me at &lt;a href=&#34;mailto:rohan.french@gmail.com&#34;&gt;rohan.french@gmail.com&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Curriculum Vitae</title>
-      <link>http://rohan-french.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/cv/</guid>
-      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -443,7 +412,17 @@ any area of philosophy where formal methods can be fruitfully applied.&lt;/p&gt;
 &lt;p&gt;When I&amp;rsquo;m not doing research I usually spend my time reading science-fiction and fantasy
 novels, listening to music and playing computer games.&lt;/p&gt;
 
-&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee. I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne.&lt;/p&gt;
+&lt;p&gt;I drink &lt;em&gt;a lot&lt;/em&gt; of coffee (I recomend &lt;a href=&#34;http://blackandbloom.nl/&#34;&gt;Black &amp;amp; Bloom&lt;/a&gt; if you&amp;rsquo;re in Groningen, and &lt;a href=&#34;http://marketlane.com.au/&#34;&gt;Market Lane Coffee&lt;/a&gt; if you&amp;rsquo;re in Melbourne).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://rohan-french.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/cv/</guid>
+      <description>&lt;p&gt;Here you can find a copy of my &lt;span class=&#34;badge&#34;&gt;&lt;a target=_blank href=&#34;Rohan French CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -455,24 +434,30 @@ novels, listening to music and playing computer games.&lt;/p&gt;
       <guid>http://rohan-french.github.io/writing/</guid>
       <description>
 
-&lt;p&gt;All PDFs here are authors preprints. To get the official version follow the
-&lt;span class=&#34;badge badge-small&#34;&gt;[doi]&lt;/span&gt; link where available. All publications are listed in
-descending order by year.&lt;/p&gt;
+&lt;p&gt;All PDFs here are authors preprints. To get the official version follow the link in
+&lt;span class=&#34;badge badge-small&#34;&gt;[square brackets]&lt;/span&gt; where available.&lt;/p&gt;
 
-&lt;h3 id=&#34;single-author-publications:a65cffa9c73225e9b2db0699034df561&#34;&gt;Single Author Publications&lt;/h3&gt;
+&lt;h2 id=&#34;single-author-publications:a65cffa9c73225e9b2db0699034df561&#34;&gt;Single Author Publications&lt;/h2&gt;
 
 &lt;hr /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&amp;ldquo;An Argument for the Ontological Innocence of Mereology&amp;rdquo;, forthcoming in &lt;em&gt;Erkenntnis&lt;/em&gt; .
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Structural Reflexivity and the Paradoxes of Self-Reference&amp;rdquo;,
+forthcoming in &lt;em&gt;Ergo&lt;/em&gt;.
+&lt;a href=&#34;http://rohan-french.github.io/writing/reflexivity-and-paradox.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;An Argument for the Ontological Innocence of Mereology&amp;rdquo;,
+forthcoming in &lt;em&gt;Erkenntnis&lt;/em&gt;.
 &lt;a href=&#34;http://rohan-french.github.io/writing/mereology.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1007/s10670-015-9762-x&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;(Open Access)&lt;/p&gt;&lt;/li&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1007/s10670-015-9762-x&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;(Open Access)&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&amp;ldquo;A Sequent Calculus for Urn Logic&amp;rdquo;, &lt;em&gt;The Journal of Logic, Language and Information&lt;/em&gt; 24 (2015), 131-147.
+&lt;li&gt;&lt;p&gt;&amp;ldquo;A Sequent Calculus for Urn Logic&amp;rdquo;,
+&lt;em&gt;Journal of Logic, Language and Information&lt;/em&gt; 24 (2015), 131-147.
 &lt;a href=&#34;http://rohan-french.github.io/writing/urn-logic.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1007/s10849-015-9216-5&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;(Open Access)&lt;/p&gt;&lt;/li&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1007/s10849-015-9216-5&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;(Open Access)&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&amp;ldquo;In the Mood for &lt;strong&gt;S4&lt;/strong&gt;: The Expressive Power of the Subjunctive Modal Language in Weak Background Logics&amp;rdquo;, &lt;em&gt;Studia Logica&lt;/em&gt; 103 (2015), 239-263.
+&lt;li&gt;&lt;p&gt;&amp;ldquo;In the Mood for &lt;strong&gt;S4&lt;/strong&gt;: The Expressive Power of the Subjunctive Modal Language in Weak Background Logics&amp;rdquo;,
+&lt;em&gt;Studia Logica&lt;/em&gt; 103 (2015), 239-263.
 &lt;a href=&#34;http://rohan-french.github.io/writing/itmfs4.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
 &lt;a href=&#34;http://dx.doi.org/10.1007%2Fs11225-014-9557-0&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
@@ -496,7 +481,7 @@ descending order by year.&lt;/p&gt;
 &lt;a href=&#34;http://dx.doi.org/10.1215/00294527-2008-003&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;co-authored-publications:a65cffa9c73225e9b2db0699034df561&#34;&gt;Co-Authored Publications&lt;/h3&gt;
+&lt;h2 id=&#34;co-authored-publications:a65cffa9c73225e9b2db0699034df561&#34;&gt;Co-Authored Publications&lt;/h2&gt;
 
 &lt;hr /&gt;
 
@@ -505,14 +490,15 @@ descending order by year.&lt;/p&gt;
 &lt;a href=&#34;http://philpapers.org/archive/FRECON.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
 &lt;a href=&#34;http://dx.doi.org/10.1017/S1755020314000409&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;(with Lloyd Humberstone) &amp;ldquo;An Observation Concerning Porte&amp;rsquo;s Rule in Modal Logic&amp;rdquo;, &lt;em&gt;Bulletin of the Section of Logic&lt;/em&gt; 44:1 / 2 (2015), 25-31.&lt;br /&gt;
-&lt;a href=&#34;http://rohan-french.github.io/writing/porte.pdf&#34; class=&#34;badge badge small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;(with Lloyd Humberstone) &amp;ldquo;An Observation Concerning Porte&amp;rsquo;s Rule in Modal Logic&amp;rdquo;,
+&lt;em&gt;Bulletin of the Section of Logic&lt;/em&gt; 44:1 / 2 (2015), 25-31.
+&lt;a href=&#34;http://rohan-french.github.io/writing/porte.pdf&#34; class=&#34;badge badge small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;a href=&#34;http://www.filozof.uni.lodz.pl/bulletin/pdf/44_12_4.pdf&#34;class=&#34;badge badge-small&#34;&gt;[Official Version]&lt;/a&gt; (Open Access)&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;(with Lloyd Humberstone) &amp;ldquo;Partial Confirmation of a Conjecture on the Boxdot Translation in Modal Logic&amp;rdquo;, &lt;em&gt;Australasian Journal of Logic&lt;/em&gt; 7 (2009), 56-61.
-&lt;br /&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;&lt;a href=&#34;http://ojs.victoria.ac.nz/ajl/article/view/1808&#34; class=badge-small&gt;Available Online from the AJL.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;br /&gt;&lt;a href=&#34;http://ojs.victoria.ac.nz/ajl/article/view/1808&#34; class=&#34;badge badge-small&#34;&gt;[AJL]&lt;/a&gt; (Open Access)&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;reviews:a65cffa9c73225e9b2db0699034df561&#34;&gt;Reviews&lt;/h3&gt;
+&lt;h2 id=&#34;reviews:a65cffa9c73225e9b2db0699034df561&#34;&gt;Reviews&lt;/h2&gt;
 
 &lt;hr /&gt;
 
@@ -522,16 +508,17 @@ descending order by year.&lt;/p&gt;
 &lt;a href=&#34;http://dx.doi.org/10.1080/00048402.2014.887738&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;in-proceedings:a65cffa9c73225e9b2db0699034df561&#34;&gt;In Proceedings&lt;/h3&gt;
+&lt;h2 id=&#34;in-proceedings:a65cffa9c73225e9b2db0699034df561&#34;&gt;In Proceedings&lt;/h2&gt;
 
 &lt;hr /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&amp;ldquo;Prover-Skeptic Games and Logical Pluralism&amp;rdquo;, Proceedings of the 20th Amsterdam Colloquium, Edited by Thomas Brochhagen, Floris Roelofsen &amp;amp; Nadine Theiler, pp.128&amp;ndash;136.
+&lt;li&gt;&amp;ldquo;Prover-Skeptic Games and Logical Pluralism&amp;rdquo;,
+Proceedings of the 20th Amsterdam Colloquium, Edited by Thomas Brochhagen, Floris Roelofsen &amp;amp; Nadine Theiler, pp.128-136.
 &lt;a href=&#34;http://rohan-french.github.io/slides-handouts/psac-proceedings.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;unpublished:a65cffa9c73225e9b2db0699034df561&#34;&gt;Unpublished&lt;/h3&gt;
+&lt;h2 id=&#34;unpublished:a65cffa9c73225e9b2db0699034df561&#34;&gt;Unpublished&lt;/h2&gt;
 
 &lt;hr /&gt;
 
