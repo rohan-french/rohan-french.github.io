@@ -6,8 +6,42 @@
     <description>Recent content on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2016 22:50:24 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2016 22:50:24 +0200</lastBuildDate>
     <atom:link href="http://rohan-french.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Simple Sequent Calculus for Angell&#39;s Logic of Analytic Containment</title>
+      <link>http://rohan-french.github.io/presentations/melbourne-aal-angell/</link>
+      <pubDate>Fri, 01 Jul 2016 22:50:24 +0200</pubDate>
+      
+      <guid>http://rohan-french.github.io/presentations/melbourne-aal-angell/</guid>
+      <description>&lt;p&gt;In a number of publications dating from 1977, R.B. Angell put forward a novel relevant logic
+whose arrow formulas are most naturally read as recording that the content of the consequent
+is analytically contained in the content of the antecedent. More recently, Kit Fine has suggested
+that the first-degree fragment of this logic is a natural formulation of the notion of partial
+content, presenting an intuitive semantics for it in terms of truth-maker semantics.&lt;/p&gt;
+
+&lt;p&gt;In the present paper I put forward a simple sequent calculus for Angell&amp;rsquo;s logic, and show why
+this is the correct logic of partial content for a range of logics including classical logic as
+well as illustrating some vistas that this approach opens up for treating the notion of logical
+subtraction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Dialogical Account of Logical Pluralism</title>
+      <link>http://rohan-french.github.io/presentations/mcmp-dialogical-pluralism/</link>
+      <pubDate>Thu, 21 Apr 2016 22:50:24 +0200</pubDate>
+      
+      <guid>http://rohan-french.github.io/presentations/mcmp-dialogical-pluralism/</guid>
+      <description>&lt;p&gt;According to logical pluralists there may be more than one legitimate answer to the question of whether a given deductive argument is valid.
+Those who wish to defend a pluralist position face a kind of explanatory challenge: how can there be multiple correct notions of logical
+consequence. In the present talk I will argue that adopting a multi-agent dialogical account of logical consequence allows quite directly
+for an interesting form of logical pluralism. In order to clarify the position I introduce &lt;em&gt;Prover-Skeptic Games&lt;/em&gt;, a novel kind of
+dialogue game (initially introduced by Sørensen &amp;amp; Urzyczyn in the context of the lambda-calculus) which more closely resembles &amp;lsquo;proof-construction&amp;rsquo; rather than &amp;lsquo;formula-evaluation&amp;rsquo;. We then use these dialogue games to show how interest-relative
+features of explanation result in an interest-relative form of logical pluralism.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Dialogical Account of Logical Pluralism</title>
@@ -401,8 +435,9 @@ Melbourne&amp;rsquo;s undergraduate logic course into a MOOC on Coursera, result
 One day I&amp;rsquo;ll probably put some of the Python programs I developed to put together
 the continuous assessment for the subject online here.&lt;/p&gt;
 
-&lt;p&gt;Currently I&amp;rsquo;m in the Netherlands where I&amp;rsquo;m working with Associate Professor Catarina Dutilh Novaes
-on the &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/&#34;&gt;Roots of Deduction&lt;/a&gt; project at the University of Groningen, where I&amp;rsquo;m working on connections between proof-theory and dialogue games.&lt;/p&gt;
+&lt;p&gt;From 2015-2016 I was a postdoctoral researcher in the Netherlands, working with Associate Professor Catarina Dutilh Novaes
+on the &lt;a href=&#34;https://sites.google.com/site/therootsofdeduction/&#34;&gt;Roots of Deduction&lt;/a&gt; project at the University of Groningen,
+where I worked on various connections between proof-theory and dialogue games.&lt;/p&gt;
 
 &lt;p&gt;My research is focused on issues in &lt;em&gt;philosophical logic&lt;/em&gt; and the &lt;em&gt;philosophy of logic&lt;/em&gt;. I&amp;rsquo;m
 particularly interested in issues concerning philosophical proof-theory (esp. proof-theory
@@ -444,14 +479,15 @@ novels, listening to music and playing computer games.&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&amp;ldquo;Structural Reflexivity and the Paradoxes of Self-Reference&amp;rdquo;,
-forthcoming in &lt;em&gt;Ergo&lt;/em&gt;.
-&lt;a href=&#34;http://rohan-french.github.io/writing/reflexivity-and-paradox.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;&amp;ldquo;An Argument for the Ontological Innocence of Mereology&amp;rdquo;,
 forthcoming in &lt;em&gt;Erkenntnis&lt;/em&gt;.
 &lt;a href=&#34;http://rohan-french.github.io/writing/mereology.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
 &lt;a href=&#34;http://dx.doi.org/10.1007/s10670-015-9762-x&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;(Open Access)&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Structural Reflexivity and the Paradoxes of Self-Reference&amp;rdquo;,
+&lt;em&gt;Ergo&lt;/em&gt; 3 (2016), 113-131.&lt;br /&gt;
+&lt;a href=&#34;http://rohan-french.github.io/writing/reflexivity-and-paradox.pdf&#34; class=&#34;badge badge-small&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&amp;nbsp;pdf&lt;/a&gt;
+&lt;a href=&#34;http://dx.doi.org/10.3998/ergo.12405314.0003.005&#34; class=&#34;badge badge-small&#34;&gt;[doi]&lt;/a&gt;(Open Access)&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&amp;ldquo;A Sequent Calculus for Urn Logic&amp;rdquo;,
 &lt;em&gt;Journal of Logic, Language and Information&lt;/em&gt; 24 (2015), 131-147.
