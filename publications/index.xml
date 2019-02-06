@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rohan French: Logician at Large</title>
-    <link>http://rohan-french.github.io/</link>
-    <description>Recent content on Rohan French: Logician at Large</description>
+    <title>Publications on Rohan French: Logician at Large</title>
+    <link>http://rohan-french.github.io/publications/</link>
+    <description>Recent content in Publications on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://rohan-french.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rohan-french.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -207,16 +207,6 @@
       
       <guid>http://rohan-french.github.io/publications/eventual-permanence/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://rohan-french.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/about/</guid>
-      <description>With Descartes at Versailles circa 2015.  I&amp;rsquo;m Dr. Rohan French.
-Since the fall of 2018 I&amp;rsquo;ve been an Assistant Professor in the Philosophy Department at the University of California Davis. Prior to that I was a postdoctoral researcher in the Netherlands, working with Professor Catarina Dutilh Novaes on the Roots of Deduction project at the University of Groningen, where I worked on various connections between proof-theory and dialogue games. Prior to my stay in Groningen I worked with Greg Restall and Jen Davoren at the University of Melbourne on creating the, seemingly no longer available, MOOCs on Coursera, Logic: Language and Information 1 and Logic: Language and Information 2.</description>
     </item>
     
   </channel>

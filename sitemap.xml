@@ -1,80 +1,115 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rohan-french.github.io/</loc>
-    <lastmod>2016-09-09T11:00:24+10:00</lastmod>
-    <priority>0</priority>
+    <loc>http://rohan-french.github.io/publications/forster-descriptions/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/presentations/mlg-dialogical-pluralism/</loc>
-    <lastmod>2016-09-09T11:00:24+10:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/notational-variance/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/presentations/melbourne-yablo-workshop/</loc>
-    <lastmod>2016-07-16T22:50:24+02:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/valuations/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/presentations/melbourne-aal-angell/</loc>
-    <lastmod>2016-07-01T22:50:24+02:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/dialogue-paradox/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/presentations/mcmp-dialogical-pluralism/</loc>
-    <lastmod>2016-04-21T22:50:24+02:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/counterpossibles/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/presentations/groningen-proverskeptic/</loc>
-    <lastmod>2016-04-08T22:50:24+02:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/angell-sequents/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/presentations/amsterdam-proverskeptic/</loc>
-    <lastmod>2015-12-17T22:50:24+02:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/ntds/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/presentations/standrews-bilateralismgames/</loc>
-    <lastmod>2015-11-25T22:50:24+02:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/mereology/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/presentations/tuvienna-proverskeptic/</loc>
-    <lastmod>2015-09-29T22:50:24+02:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/reflexivity-and-paradox/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/presentations/gap9-2015/</loc>
-    <lastmod>2015-09-17T22:50:24+02:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/urn-logic/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/post/rules-inference-proof/</loc>
-    <lastmod>2015-08-19T04:35:45+01:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/porte/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/presentations/clmps-2015/</loc>
-    <lastmod>2015-08-05T11:00:24+02:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/contnoncr/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/post/barcanactually/</loc>
-    <lastmod>2015-04-09T04:35:45+01:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/itmfs4/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/post/urn-logic/</loc>
-    <lastmod>2015-03-13T04:35:45+01:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/psgalp/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/post/introductions/</loc>
-    <lastmod>2015-02-27T04:35:45+01:00</lastmod>
+    <loc>http://rohan-french.github.io/publications/wtp-review/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rohan-french.github.io/publications/epmaac/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rohan-french.github.io/publications/dmpcnmlpc/</loc>
+    <lastmod>2012-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rohan-french.github.io/publications/aagv/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rohan-french.github.io/publications/thesis/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rohan-french.github.io/publications/aseeink/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rohan-french.github.io/publications/boxdot-conjecture/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rohan-french.github.io/publications/eventual-permanence/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -82,11 +117,25 @@
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/cv/</loc>
+    <loc>http://rohan-french.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rohan-french.github.io/writing/</loc>
+    <loc>http://rohan-french.github.io/publications/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rohan-french.github.io/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rohan-french.github.io/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

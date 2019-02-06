@@ -8,6 +8,36 @@ link colour				rlc				#3f3e4a
 
 */
 
+
+
+/* HEADER LAYOUT STYLING
+===================================================*/
+
+#topbar {
+	background: #595864;
+	padding:0px;
+	margin:0ex;
+	/* border-bottom: 3px solid #b24; */
+} 
+
+.wrapper {
+	padding: 0 10px;
+	width: 94%;
+	max-width: 1300px;
+	margin: auto;
+}
+
+#topbar .navbar {padding-top:14px;padding-bottom:14px; font-size:120%;font-family: 'Alegreya Sans SC', sans-serif;
+} 
+#topbar li a {color: #EEE6AA;	border-style:none;	
+}
+#topbar li span a {font-size:180%;font-family: 'Alegreya', serif; font-weight: bold;}
+#topbar a:hover {  text-decoration: underline;
+}
+
+
+/*========== END HEADER STYLE ====================*/
+
 div.contact-div{
 	float:right;
 	font-size:80%;
@@ -73,39 +103,6 @@ hr.footer {
   border-top: 3px solid #bbb;
 }
 
-.navbar {
-	margin: auto auto;
-	display: table;
-}
-
-.navbar a:hover {
-  color: #EEE6AA;
-  text-decoration: underline;
-}
-
-.navbar li:last-child {
-  float: left;
-  margin-right: 0em;
-}
-
-div.navigation {
-    text-align: center;
-	padding-top: 1rem;
-	padding-right: 0.5rem;
-	padding-bottom: 2rem;
-	padding-left: 0.5rem;
-	background-color: #595864;
-}
-
-div.navigation a{
-	font-family: 'Alegreya Sans SC', sans-serif;
-	color: rgba(255,255,255,0.8);
-	border-style:none;	
-}
-
-span.illuminate{
-	font-family: 'Alegreya Sans SC', sans-serif;
-}
 
 .image-left {
    float: left;
@@ -139,6 +136,11 @@ hr.header-rule{
 	padding-top: 0;
 }
 
+span.illuminate {
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+
 /* =Typography
 -----------------------------------------------------------------------------*/
 body {
@@ -155,8 +157,8 @@ h2, h3, h4, h5 {
 	font-weight: normal;
 	font-style: italic;
 }
-h2 {
+h3 {
 	text-transform: lowercase;
-	font-family: 'Alegreya SC', sans-serif;
+	font-family: 'Alegreya Sans SC', sans-serif;
 	font-style: normal;
 }
