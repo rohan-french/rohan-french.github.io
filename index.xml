@@ -6,7 +6,7 @@
     <description>Recent content on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://rohan-french.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Metasequents and Tetravaluations</title>
       <link>http://rohan-french.github.io/publications/metasequents/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>http://rohan-french.github.io/publications/metasequents/</guid>
       <description></description>
@@ -23,16 +23,25 @@
     <item>
       <title>Proofs and Models in Naive Property Theory: A Response to Hartry Field&#39;s &#39;Properties, Propositions and Conditionals&#39;</title>
       <link>http://rohan-french.github.io/publications/proofs-and-models/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>http://rohan-french.github.io/publications/proofs-and-models/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>A Dialogical Route to Logical Pluralism</title>
+      <link>http://rohan-french.github.io/publications/dialogical-pluralism/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/publications/dialogical-pluralism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Classical Counterpossibles</title>
       <link>http://rohan-french.github.io/publications/classical-counterpossibles/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>http://rohan-french.github.io/publications/classical-counterpossibles/</guid>
       <description></description>
@@ -41,27 +50,9 @@
     <item>
       <title>Two Traditions in Abstract Valuational Model Theory</title>
       <link>http://rohan-french.github.io/publications/two-traditions/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://rohan-french.github.io/publications/two-traditions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Dialogical Route to Logical Pluralism</title>
-      <link>http://rohan-french.github.io/publications/dialogical-pluralism/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/publications/dialogical-pluralism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Description and Disjunction: Reflections on an Argument of Thomas Forster</title>
-      <link>http://rohan-french.github.io/publications/forster-descriptions/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/publications/forster-descriptions/</guid>
       <description></description>
     </item>
     
@@ -80,6 +71,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://rohan-french.github.io/publications/valuations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Description and Disjunction: Reflections on an Argument of Thomas Forster</title>
+      <link>http://rohan-french.github.io/publications/forster-descriptions/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/publications/forster-descriptions/</guid>
       <description></description>
     </item>
     
