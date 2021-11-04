@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Rohan French: Logician at Large</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://rohan-french.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Two Traditions in Abstract Valuational Model Theory</title>
+      <link>http://rohan-french.github.io/publications/two-traditions/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rohan-french.github.io/publications/two-traditions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Metasequents and Tetravaluations</title>
@@ -44,15 +53,6 @@
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>http://rohan-french.github.io/publications/proofs-and-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two Traditions in Abstract Valuational Model Theory</title>
-      <link>http://rohan-french.github.io/publications/two-traditions/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://rohan-french.github.io/publications/two-traditions/</guid>
       <description></description>
     </item>
     
